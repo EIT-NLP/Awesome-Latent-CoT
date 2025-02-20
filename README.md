@@ -2,6 +2,15 @@
 
 This repository contains a regularly updated paper list for **LLMs-reasoning-in-latent-space**.
 
+Reasoning in latent space shifts the way AI models think, moving beyond language tokens to represent thought processes in a more abstract, non-language space. Just as humans often think without words, latent space allows for more flexible and efficient reasoning.
+
+### Key advantages include:
+1. **Richer Thought Representation**: Latent space captures complex, non-verbal thoughts that language alone can't express.
+2. **Lower Latency**: It allows for higher information density, reducing the need for token-based decoding and speeding up reasoning.
+
+This approach brings AI closer to human-like cognition, enabling faster, more flexible, and powerful models for real-world tasks.
+
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/hemingkx/SpeculativeDecodingPapers/main?logo=github&color=blue)
 
 ## Content
