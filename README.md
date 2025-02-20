@@ -1,4 +1,9 @@
 # Large Language Models: Reasoning in Latent Space
+<p align="center"><em>
+The continuous latent space is analogous to the superposition states in Hilbert space in quantum mechanics. Discretizing it into tokens is akin to measurement collapsing the superposition into a definite outcome.
+</em></p>
+
+<p align="center"><strong>— Yuandong Tian</strong></p>
 
 This repository contains a regularly updated paper list for **LLMs-reasoning-in-latent-space**.
 
