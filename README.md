@@ -1,4 +1,4 @@
-# Awesome-LLMs-reasoning-in-latent-space
+# Large Language Models: Reasoning in Latent Space
 
 This repository contains a regularly updated paper list for **LLMs-reasoning-in-latent-space**.
 
