@@ -9,6 +9,15 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
 - [Keywords Convention](#keywords-convention)
 
 - [Papers](#papers)
+    - [Pre-training](#pre-training)
+    - [Supervised-Finetuning](#supervised-finetuning)
+        - [Vertical Level](#vertical-level)
+        - [Horizontal Level](#horizontal-level)
+            - [Discrete Tokens](#discrete-tokens)
+            - [Continuous Tokens](#continuous-tokens)
+        - [Analysis and Interpretability](#analysis-and-interpretability)
+        - [Multimodal Latent Reasoning](#multimodal-latent-reasoning)
+        - [Other related work](#other-related-work-or-pending-to-be-specified-(Providing-insights))
 
 ## Keywords Convention
 
@@ -18,7 +27,7 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
 
 ![](https://img.shields.io/badge/Drafter:_Continuous_CoT-green) Drafting Methods in Latent Reasoning
 
-![](https://img.shields.io/badge/Batching-lightgray) Main Features
+![](https://img.shields.io/badge/Reconstruction-lightgray) Main Features
 
 ## Papers
 
@@ -43,7 +52,7 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
   *Jiacheng Ye, Shansan Gong, Liheng Chen, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Xin Jiang, Zhenguo Li, Wei Bi, Lingpeng Kong*. [[pdf](https://arxiv.org/pdf/2402.07754)], 2024.02. ![](https://img.shields.io/badge/NIPS2024-orange)
 - **From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step**  
   *Yuntian Deng, Yejin Choi, Stuart Shieber*. [[pdf](https://arxiv.org/pdf/2405.14838)], [[code](https://github.com/da03/Internalize_CoT_Step_by_Step)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Distilling System 2 into System 1 **  
+- **Distilling System 2 into System 1**  
   *Ping Yu, Jing Xu, Jason Weston, Ilia Kulikov*. [[pdf](https://arxiv.org/pdf/2407.06023)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange)
 
 #### Horizontal Level
@@ -54,6 +63,8 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
   *Xinyi Wang, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, William Yang Wang, Alessandro Sordoni*. [[pdf](https://arxiv.org/pdf/2404.15758)], [[code](https://github.com/WANGXinyiLinda/planning_tokens)], 2023.10. ![](https://img.shields.io/badge/COLM2024-orange) ![](https://img.shields.io/badge/planning_tokens-blue)
 - **Let's think dot by dot: Hidden computation in transformer language models**  
   *Jacob Pfau, William Merrill, Samuel R. Bowman*. [[pdf](https://aclanthology.org/2023.findings-emnlp.257.pdf)], [[code](https://github.com/JacobPfau/fillerTokens)], 2024.04. ![](https://img.shields.io/badge/COLM2024-orange)
+- **Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding**  
+  *Tianqiao Liu, Zui Chen, Zitao Liu, Mi Tian, Weiqi Luo*. [[pdf](https://arxiv.org/pdf/2409.08561)], 2024.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning**  
   *DiJia Su, Hanlin Zhu, Yingchen Xu, Jiantao Jiao, Yuandong Tian, Qinqing Zheng*. [[pdf](https://arxiv.org/pdf/2502.03275)], 2025.02.  ![](https://img.shields.io/badge/Arxiv-orange)
 
@@ -64,21 +75,28 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
 - **Compressed Chain of Thought: Efficient Reasoning Through Dense Representations**  
   *Jeffrey Cheng, Benjamin Van Durme*. [[pdf](https://arxiv.org/pdf/2412.13171)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
 
-### Analysis
+### Analysis and Interpretability
 
-- **LLMs Do Not Think Step-by-step In Implicit Reasoning **  
+- **LLMs Do Not Think Step-by-step In Implicit Reasoning**  
   *Yijiong Yu*. [[pdf](https://arxiv.org/pdf/2411.15862)], [[code](https://github.com/yuyijiong/if_step_by_step_implicit_CoT)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
+
+### Multimodal Latent Reasoning
+
+- **Multi-modal latent space learning for chain-of-thought reasoning in language models**  
+  *Liqi He, Zuchao Li, Xiantao Cai, Ping Wang*. [[pdf](https://arxiv.org/pdf/2312.08762)], [[code](https://github.com/shimurenhlq/DPMM-COT)], 2023.12. ![](https://img.shields.io/badge/AAAI2024-orange)
+- **Multimodal Latent Language Modeling with Next-Token Diffusion**  
+  *Yutao Sun, Hangbo Bao, Wenhui Wang, Zhiliang Peng, Li Dong, Shaohan Huang, Jianyong Wang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2412.08635)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Efficient Reasoning with Hidden Thinking**  
+  *Xuan Shen, Yizhou Wang, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu*. [[pdf](https://arxiv.org/pdf/2501.19201)], [[code](https://github.com/shawnricecake/Heima)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Heima-blue)
 
 ### Other related work or pending to be specified (Providing insights)
 
 - **Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**  
-  *Heming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui*. [[pdf](https://aclanthology.org/2023.findings-emnlp.257.pdf)], [[code](https://github.com/hemingkx/SpecDec)], 2022.03. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Deliberation in Latent Space via Differentiable Cache Augmentation**  
-  *Heming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui*. [[pdf](https://aclanthology.org/2023.findings-emnlp.257.pdf)], [[code](https://github.com/hemingkx/SpecDec)], 2022.03. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding**  
-  *Heming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui*. [[pdf](https://aclanthology.org/2023.findings-emnlp.257.pdf)], [[code](https://github.com/hemingkx/SpecDec)], 2022.03. ![](https://img.shields.io/badge/Arxiv-orange)
-
+  *Haolin Chen, Yihao Feng, Zuxin Liu, Weiran Yao, Akshara Prabhakar, Shelby Heinecke, Ricky Ho, Phil Mui, Silvio Savarese, Caiming Xiong, Huan Wang*. [[pdf](https://arxiv.org/pdf/2411.04282)], [[code](https://github.com/SalesforceAIResearch/LaTRO)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Searching Latent Program Spaces**  
-  *Heming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui*. [[pdf](https://aclanthology.org/2023.findings-emnlp.257.pdf)], [[code](https://github.com/hemingkx/SpecDec)], 2022.03. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Clément Bonnet, Matthew V Macfarlane*. [[pdf](https://arxiv.org/pdf/2411.08706)], [[code](https://github.com/clement-bonnet/lpn)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Deliberation in Latent Space via Differentiable Cache Augmentation**  
+  *Luyang Liu, Jonas Pfeiffer, Jiaxing Wu, Jun Xie, Arthur Szlam*. [[pdf](https://arxiv.org/abs/2412.17747)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
+
 - **Large Concept Models: Language Modeling in a Sentence Representation Space**  
-  *Heming Xia, Tao Ge, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui*. [[pdf](https://aclanthology.org/2023.findings-emnlp.257.pdf)], [[code](https://github.com/hemingkx/SpecDec)], 2022.03. ![](https://img.shields.io/badge/Arxiv-orange)
+  *LCM team, Loïc Barrault, Paul-Ambroise Duquenne, Maha Elbayad, Artyom Kozhevnikov, Belen Alastruey, Pierre Andrews, Mariano Coria, Guillaume Couairon, Marta R. Costa-jussà, David Dale, Hady Elsahar, Kevin Heffernan, João Maria Janeiro, Tuan Tran, Christophe Ropers, Eduardo Sánchez, Robin San Roman, Alexandre Mourachko, Safiyyah Saleem, Holger Schwenk*. [[pdf](https://arxiv.org/pdf/2412.08821)], [[code](https://github.com/facebookresearch/large_concept_model)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
