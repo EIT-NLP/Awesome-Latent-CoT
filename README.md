@@ -46,7 +46,7 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
 
 #### Vertical Level
 
-- **Implicit Chain of Thought Reasoning via Knowledge Distillation **  
+- **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
   *Yuntian Deng, Kiran Prasad, Roland Fernandez, Paul Smolensky, Vishrav Chaudhary, Stuart Shieber*. [[pdf](https://arxiv.org/pdf/2311.01460)], 2023.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**  
   *Jiacheng Ye, Shansan Gong, Liheng Chen, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Xin Jiang, Zhenguo Li, Wei Bi, Lingpeng Kong*. [[pdf](https://arxiv.org/pdf/2402.07754)], 2024.02. ![](https://img.shields.io/badge/NIPS2024-orange)
