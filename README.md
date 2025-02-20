@@ -17,7 +17,7 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
             - [Continuous Tokens](#continuous-tokens)
     - [Analysis and Interpretability](#analysis-and-interpretability)
     - [Multimodal Latent Reasoning](#multimodal-latent-reasoning)
-    - [Other related work](#other-related-work-or-pending-to-be-specified-(providing-insights))
+    - [Other related work](#other-related-work-or-pending-to-be-specified)
 
 ## Keywords Convention
 
@@ -89,7 +89,7 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
 - **Efficient Reasoning with Hidden Thinking**  
   *Xuan Shen, Yizhou Wang, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu*. [[pdf](https://arxiv.org/pdf/2501.19201)], [[code](https://github.com/shawnricecake/Heima)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Heima-blue)
 
-### Other related work or pending to be specified (Providing insights)
+### Other related work or pending to be specified
 
 - **Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding**  
   *Haolin Chen, Yihao Feng, Zuxin Liu, Weiran Yao, Akshara Prabhakar, Shelby Heinecke, Ricky Ho, Phil Mui, Silvio Savarese, Caiming Xiong, Huan Wang*. [[pdf](https://arxiv.org/pdf/2411.04282)], [[code](https://github.com/SalesforceAIResearch/LaTRO)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
