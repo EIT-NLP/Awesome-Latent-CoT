@@ -3,8 +3,6 @@
 The continuous latent space is analogous to the superposition states in Hilbert space in quantum mechanics. Discretizing it into tokens is akin to measurement collapsing the superposition into a definite outcome.
 </em></p>
 
-<p align="center"><strong>— Yuandong Tian</strong></p>
-
 This repository contains a regularly updated paper list for **LLMs-reasoning-in-latent-space**.
 
 Reasoning in latent space shifts the way AI models think, moving beyond language tokens to represent thought processes in a more abstract, non-language space. Just as humans often think without words, latent space allows for more flexible and efficient reasoning.
