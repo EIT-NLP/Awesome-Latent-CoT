@@ -15,9 +15,9 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
         - [Horizontal Level](#horizontal-level)
             - [Discrete Tokens](#discrete-tokens)
             - [Continuous Tokens](#continuous-tokens)
-        - [Analysis and Interpretability](#analysis-and-interpretability)
-        - [Multimodal Latent Reasoning](#multimodal-latent-reasoning)
-        - [Other related work](#other-related-work-or-pending-to-be-specified-(Providing-insights))
+    - [Analysis and Interpretability](#analysis-and-interpretability)
+    - [Multimodal Latent Reasoning](#multimodal-latent-reasoning)
+    - [Other related work](#other-related-work-or-pending-to-be-specified-(providing-insights))
 
 ## Keywords Convention
 
@@ -70,7 +70,7 @@ This repository contains a regularly updated paper list for **LLMs-reasoning-in-
 
 ##### Continuous Tokens
 
-- **Training Large Language Models to Reason in a Continuous Latent Space **  
+- **Training Large Language Models to Reason in a Continuous Latent Space**  
   *Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2412.06769)], [[code](https://github.com/facebookresearch/coconut)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Coconut-blue)
 - **Compressed Chain of Thought: Efficient Reasoning Through Dense Representations**  
   *Jeffrey Cheng, Benjamin Van Durme*. [[pdf](https://arxiv.org/pdf/2412.13171)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
