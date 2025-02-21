@@ -37,8 +37,6 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 
 ![](https://img.shields.io/badge/NIPS2024-orange) Conference
 
-![](https://img.shields.io/badge/Drafter:_Continuous_CoT-green) Drafting Methods in Latent Reasoning
-
 ![](https://img.shields.io/badge/Reconstruction-lightgray) Main Features
 
 ## Papers
