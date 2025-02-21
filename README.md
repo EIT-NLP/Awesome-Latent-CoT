@@ -112,3 +112,6 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 
 - **Large Concept Models: Language Modeling in a Sentence Representation Space**  
   *LCM team, Loïc Barrault, Paul-Ambroise Duquenne, Maha Elbayad, Artyom Kozhevnikov, Belen Alastruey, Pierre Andrews, Mariano Coria, Guillaume Couairon, Marta R. Costa-jussà, David Dale, Hady Elsahar, Kevin Heffernan, João Maria Janeiro, Tuan Tran, Christophe Ropers, Eduardo Sánchez, Robin San Roman, Alexandre Mourachko, Safiyyah Saleem, Holger Schwenk*. [[pdf](https://arxiv.org/pdf/2412.08821)], [[code](https://github.com/facebookresearch/large_concept_model)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
+
+## Acknowledgements
+If I’ve accidentally missed your name on the list, please reach out to me, and I’ll make sure to add it as soon as possible!
