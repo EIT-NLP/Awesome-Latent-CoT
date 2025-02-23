@@ -64,6 +64,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Yuntian Deng, Yejin Choi, Stuart Shieber*. [[pdf](https://arxiv.org/pdf/2405.14838)], [[code](https://github.com/da03/Internalize_CoT_Step_by_Step)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ICoT-blue) ![](https://img.shields.io/badge/Stepwise_Internalization-lightgray)
 - **Distilling System 2 into System 1**   
   *Ping Yu, Jing Xu, Jason Weston, Ilia Kulikov*. [[pdf](https://arxiv.org/pdf/2407.06023)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System_2_Distillation-lightgray)
+- **Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning**   
+  *Qifan Yu, Zhenyu He, Sijie Li, Xun Zhou, Jun Zhang, Jingjing Xu, Di He*. [[pdf](https://arxiv.org/pdf/2407.06023)], [[code](https://github.com/qifanyu/RELAY)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RELAY-blue)
 
 #### Horizontal Level
 
@@ -92,7 +94,7 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **LLMs Do Not Think Step-by-step In Implicit Reasoning**  
   *Yijiong Yu*. [[pdf](https://arxiv.org/pdf/2411.15862)], [[code](https://github.com/yuyijiong/if_step_by_step_implicit_CoT)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Understanding Reasoning with Looped Transformers**  
-  *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sashank J. Reddi, Sanjiv Kumar*. [[pdf](https://openreview.net/pdf?id=din0lGfZFd)], 2025.01. ![](https://img.shields.io/badge/ICLR2025-orange)
+  *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sashank J. Reddi, Sanjiv Kumar*. [[pdf](https://openreview.net/pdf?id=din0lGfZFd)], 2025.01. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Looped_Transformers-blue)
 
 ### Multimodal Latent Reasoning
 
