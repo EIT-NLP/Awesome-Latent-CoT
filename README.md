@@ -59,6 +59,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Yuntian Deng, Kiran Prasad, Roland Fernandez, Paul Smolensky, Vishrav Chaudhary, Stuart Shieber*. [[pdf](https://arxiv.org/pdf/2311.01460)], [[code](https://github.com/da03/implicit_chain_of_thought/)], 2023.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**  
   *Jiacheng Ye, Shansan Gong, Liheng Chen, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Xin Jiang, Zhenguo Li, Wei Bi, Lingpeng Kong*. [[pdf](https://arxiv.org/pdf/2402.07754)], 2024.02. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/DoT-blue)
+- **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**  
+  *Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman*. [[pdf](https://arxiv.org/pdf/2403.09629], 2024.03. ![](https://img.shields.io/badge/COLM2024-orange) ![](https://img.shields.io/badge/Quiet--STaR-blue)
 - **From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step**  
   *Yuntian Deng, Yejin Choi, Stuart Shieber*. [[pdf](https://arxiv.org/pdf/2405.14838)], [[code](https://github.com/da03/Internalize_CoT_Step_by_Step)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ICoT-blue) ![](https://img.shields.io/badge/Stepwise_Internalization-lightgray)
 - **Distilling System 2 into System 1**   
