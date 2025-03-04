@@ -124,9 +124,10 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Clément Bonnet, Matthew V Macfarlane*. [[pdf](https://arxiv.org/pdf/2411.08706)], [[code](https://github.com/clement-bonnet/lpn)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Deliberation in Latent Space via Differentiable Cache Augmentation**  
   *Luyang Liu, Jonas Pfeiffer, Jiaxing Wu, Jun Xie, Arthur Szlam*. [[pdf](https://arxiv.org/abs/2412.17747)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
-
 - **Large Concept Models: Language Modeling in a Sentence Representation Space**  
   *LCM team, Loïc Barrault, Paul-Ambroise Duquenne, Maha Elbayad, Artyom Kozhevnikov, Belen Alastruey, Pierre Andrews, Mariano Coria, Guillaume Couairon, Marta R. Costa-jussà, David Dale, Hady Elsahar, Kevin Heffernan, João Maria Janeiro, Tuan Tran, Christophe Ropers, Eduardo Sánchez, Robin San Roman, Alexandre Mourachko, Safiyyah Saleem, Holger Schwenk*. [[pdf](https://arxiv.org/pdf/2412.08821)], [[code](https://github.com/facebookresearch/large_concept_model)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs**  
+  *José I. Orlicki*. [[pdf](https://arxiv.org/pdf/2502.21030)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ## Acknowledgements
 If I’ve accidentally missed your papers on the list, please reach out to me, and I’ll make sure to add them as soon as possible!
