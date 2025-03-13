@@ -29,6 +29,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
     - [Analysis and Interpretability](#analysis-and-interpretability)
     - [Multimodal Latent Reasoning](#multimodal-latent-reasoning)
     - [Other related work](#other-related-work-or-pending-to-be-specified)
+- [Resources](#resources)
+- [Acknowledgements](#acknowledgements)
 
 ## Keywords Convention
 
@@ -131,5 +133,9 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs**  
   *José I. Orlicki*. [[pdf](https://arxiv.org/pdf/2502.21030)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
+## Resources
+For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning).
+
 ## Acknowledgements
+
 If I’ve accidentally missed your papers on the list, please reach out to me, and I’ll make sure to add them as soon as possible!
