@@ -28,6 +28,7 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
             - [Continuous Tokens](#continuous-tokens)
     - [Analysis and Interpretability](#analysis-and-interpretability)
     - [Multimodal Latent Reasoning](#multimodal-latent-reasoning)
+    - [Applications](#applications)
     - [Other related work](#other-related-work-or-pending-to-be-specified)
 - [Resources](#resources)
 - [Acknowledgements](#acknowledgements)
