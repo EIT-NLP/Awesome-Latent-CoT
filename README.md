@@ -108,7 +108,9 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **Do LLMs Really Think Step-by-step In Implicit Reasoning?**  
   *Yijiong Yu*. [[pdf](https://arxiv.org/pdf/2411.15862)], [[code](https://github.com/yuyijiong/if_step_by_step_implicit_CoT)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**  
-  *Zhaofeng Wu, Xinyan Velocity Yu, Dani Yogatama, Jiasen Lu, Yoon Kim*. [[pdf](https://arxiv.org/pdf/2502.17416)], [[code](https://github.com/ZhaofengWu/semantic-hub)] 2024.11. ![](https://img.shields.io/badge/ICLR2025-orange)
+  *Zhaofeng Wu, Xinyan Velocity Yu, Dani Yogatama, Jiasen Lu, Yoon Kim*. [[pdf](https://arxiv.org/pdf/2502.17416)], [[code](https://github.com/ZhaofengWu/semantic-hub)], 2024.11. ![](https://img.shields.io/badge/ICLR2025-orange)
+- **Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Step Reasoning**  
+  *Keito Kudo, Yoichi Aoki, Tatsuki Kuribayashi, Shusaku Sone, Masaya Taniguchi, Ana Brassard, Keisuke Sakaguchi, Kentaro Inui*. [[pdf](https://arxiv.org/pdf/2412.01113)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Reasoning with Latent Thoughts: On the Power of Looped Transformers**  
   *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sashank J. Reddi, Sanjiv Kumar*. [[pdf](https://arxiv.org/pdf/2502.17416)], 2025.01. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Looped_Transformers-blue)
 - **Implicit Reasoning in Transformers is Reasoning through Shortcuts**  
