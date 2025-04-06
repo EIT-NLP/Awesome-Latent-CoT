@@ -107,6 +107,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 
 ### Analysis and Interpretability
 
+- **Can Language Models Learn to Skip Steps?**  
+  *Tengxiao Liu, Qipeng Guo, Xiangkun Hu, Cheng Jiayang, Yue Zhang, Xipeng Qiu, Zheng Zhang*. [[pdf](https://arxiv.org/pdf/2411.01855)], [[code](https://github.com/tengxiaoliu/LM_skip)], 2024.09. ![](https://img.shields.io/badge/NIPS2024-orange)
 - **Do LLMs Really Think Step-by-step In Implicit Reasoning?**  
   *Yijiong Yu*. [[pdf](https://arxiv.org/pdf/2411.15862)], [[code](https://github.com/yuyijiong/if_step_by_step_implicit_CoT)], 2024.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**  
