@@ -119,8 +119,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sashank J. Reddi, Sanjiv Kumar*. [[pdf](https://arxiv.org/pdf/2502.17416)], 2025.01. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Looped_Transformers-blue)
 - **Implicit Reasoning in Transformers is Reasoning through Shortcuts**  
   *Tianhe Lin, Jian Xie, Siyu Yuan, Deqing Yang*. [[pdf](https://arxiv.org/pdf/2503.07604)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Inside-Out: Hidden Factual Knowledge in LLMs**  
-  *Zorik Gekhman, Eyal Ben David, Hadas Orgad, Eran Ofek, Yonatan Belinkov, Idan Szpektor, Jonathan Herzig, Roi Reichart*. [[pdf](https://arxiv.org/pdf/2503.15299)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Language Models Are Implicitly Continuous**  
+  *Samuele Marro, Davide Evangelista, X. Angelo Huang, Emanuele La Malfa, Michele Lombardi, Michael Wooldridge*. [[pdf](https://arxiv.org/pdf/2504.03933)], 2025.04. ![](https://img.shields.io/badge/ICLR2025-orange)
 
 ### Multimodal Latent Reasoning
 
