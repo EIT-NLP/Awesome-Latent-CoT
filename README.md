@@ -149,6 +149,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *LCM team, Loïc Barrault, Paul-Ambroise Duquenne, Maha Elbayad, Artyom Kozhevnikov, Belen Alastruey, Pierre Andrews, Mariano Coria, Guillaume Couairon, Marta R. Costa-jussà, David Dale, Hady Elsahar, Kevin Heffernan, João Maria Janeiro, Tuan Tran, Christophe Ropers, Eduardo Sánchez, Robin San Roman, Alexandre Mourachko, Safiyyah Saleem, Holger Schwenk*. [[pdf](https://arxiv.org/pdf/2412.08821)], [[code](https://github.com/facebookresearch/large_concept_model)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Beyond Words: A Latent Memory Approach to Internal Reasoning in LLMs**  
   *José I. Orlicki*. [[pdf](https://arxiv.org/pdf/2502.21030)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **SEAL: Steerable Reasoning Calibration of Large Language Models for Free**  
+  *Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang*. [[pdf](https://arxiv.org/pdf/2504.07986)], [[code](https://github.com/VITA-Group/SEAL)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning).
