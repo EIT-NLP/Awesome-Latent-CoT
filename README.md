@@ -74,6 +74,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Qifan Yu, Zhenyu He, Sijie Li, Xun Zhou, Jun Zhang, Jingjing Xu, Di He*. [[pdf](https://arxiv.org/pdf/2502.08482)], [[code](https://github.com/qifanyu/RELAY)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RELAY-blue)
 - **TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**   
   *Jingxian Xu, Mengyu Zhou, Weichang Liu, Hanbing Liu, Shi Han, Dongmei Zhang*. [[pdf](https://arxiv.org/pdf/2503.24198)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TwT-blue)
+- **CoTFormer: A Chain-of-Thought Driven Architecture with Budget-Adaptive Computation Cost at Inference**   
+  *Amirkeivan Mohtashami, Matteo Pagliardini, Martin Jaggi*. [[pdf](https://arxiv.org/abs/2310.10845)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TwT-blue)
 
 #### Horizontal Level
 
