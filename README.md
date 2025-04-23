@@ -18,7 +18,6 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 ## Content
 
 - [Keywords Convention](#keywords-convention)
-
 - [Papers](#papers)
     - [Pre-training](#pre-training)
     - [Supervised-Finetuning](#supervised-finetuning)
@@ -27,7 +26,6 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
             - [Discrete Tokens](#discrete-tokens)
             - [Continuous Tokens](#continuous-tokens)
     - [Analysis and Interpretability](#analysis-and-interpretability)
-    - [Multimodal Latent Reasoning](#multimodal-latent-reasoning)
     - [Applications](#applications)
     - [Other related work](#other-related-work-or-pending-to-be-specified)
 - [Resources](#resources)
@@ -122,7 +120,7 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **Language Models Are Implicitly Continuous**  
   *Samuele Marro, Davide Evangelista, X. Angelo Huang, Emanuele La Malfa, Michele Lombardi, Michael Wooldridge*. [[pdf](https://arxiv.org/pdf/2504.03933)], 2025.04. ![](https://img.shields.io/badge/ICLR2025-orange)
 
-### Multimodal Latent Reasoning
+### Applications
 
 - **Multi-modal latent space learning for chain-of-thought reasoning in language models**  
   *Liqi He, Zuchao Li, Xiantao Cai, Ping Wang*. [[pdf](https://arxiv.org/pdf/2312.08762)], [[code](https://github.com/shimurenhlq/DPMM-COT)], 2023.12. ![](https://img.shields.io/badge/AAAI2024-orange)
@@ -131,7 +129,6 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **Efficient Reasoning with Hidden Thinking**  
   *Xuan Shen, Yizhou Wang, Xiangxi Shi, Yanzhi Wang, Pu Zhao, Jiuxiang Gu*. [[pdf](https://arxiv.org/pdf/2501.19201)], [[code](https://github.com/shawnricecake/Heima)], 2025.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Heima-blue)
 
-### Applications
 - **Learning More Effective Representations for Dense Retrieval through Deliberate Thinking Before Search**  
   *Yifan Ji, Zhipeng Xu, Zhenghao Liu, Yukun Yan, Shi Yu, Yishan Li, Zhiyuan Liu, Yu Gu, Ge Yu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2502.12974)], [[code](https://github.com/OpenBMB/DEBATER)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DEBATER-blue)
 - **Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**  
