@@ -106,7 +106,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Zhenyi Shen, Hanqi Yan, Linhai Zhang, Zhanghao Hu, Yali Du, Yulan He*. [[pdf](https://arxiv.org/pdf/2502.21074)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CODI-blue)
 
 ### Analysis and Interpretability
-
+- **Distributional reasoning in LLMs: Parallel reasoning processes in multi-hop reasoning**  
+  *Yuval Shalev, Amir Feder, Ariel Goldstein*. [[pdf](https://arxiv.org/abs/2406.13858)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Can Language Models Learn to Skip Steps?**  
   *Tengxiao Liu, Qipeng Guo, Xiangkun Hu, Cheng Jiayang, Yue Zhang, Xipeng Qiu, Zheng Zhang*. [[pdf](https://arxiv.org/pdf/2411.01855)], [[code](https://github.com/tengxiaoliu/LM_skip)], 2024.09. ![](https://img.shields.io/badge/NIPS2024-orange)
 - **Do LLMs Really Think Step-by-step In Implicit Reasoning?**  
@@ -121,8 +122,7 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Tianhe Lin, Jian Xie, Siyu Yuan, Deqing Yang*. [[pdf](https://arxiv.org/pdf/2503.07604)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Language Models Are Implicitly Continuous**  
   *Samuele Marro, Davide Evangelista, X. Angelo Huang, Emanuele La Malfa, Michele Lombardi, Michael Wooldridge*. [[pdf](https://arxiv.org/pdf/2504.03933)], 2025.04. ![](https://img.shields.io/badge/ICLR2025-orange)
-- **Distributional reasoning in LLMs: Parallel reasoning processes in multi-hop reasoning**  
-  *Yuval Shalev, Amir Feder, Ariel Goldstein*. [[pdf](https://arxiv.org/abs/2406.13858)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange)
+
 
 ### Applications
 
