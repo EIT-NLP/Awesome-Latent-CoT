@@ -108,6 +108,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Zhenyi Shen, Hanqi Yan, Linhai Zhang, Zhanghao Hu, Yali Du, Yulan He*. [[pdf](https://arxiv.org/pdf/2502.21074)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CODI-blue)
 
 ### Analysis and Interpretability
+- **Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization**  
+  *Boshi Wang, Xiang Yue, Yu Su, Huan Sun*. [[pdf](https://arxiv.org/pdf/2405.15071)], 2024.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Distributional reasoning in LLMs: Parallel reasoning processes in multi-hop reasoning**  
   *Yuval Shalev, Amir Feder, Ariel Goldstein*. [[pdf](https://arxiv.org/abs/2406.13858)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Can Language Models Learn to Skip Steps?**  
