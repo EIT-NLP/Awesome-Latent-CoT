@@ -126,6 +126,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Tianhe Lin, Jian Xie, Siyu Yuan, Deqing Yang*. [[pdf](https://arxiv.org/pdf/2503.07604)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Language Models Are Implicitly Continuous**  
   *Samuele Marro, Davide Evangelista, X. Angelo Huang, Emanuele La Malfa, Michele Lombardi, Michael Wooldridge*. [[pdf](https://arxiv.org/pdf/2504.03933)], 2025.04. ![](https://img.shields.io/badge/ICLR2025-orange)
+- **Chain-of-Thought Tokens are Computer Program Variables**  
+  *Fangwei Zhu, Peiyi Wang, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2505.04955)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 
 
 ### Applications
