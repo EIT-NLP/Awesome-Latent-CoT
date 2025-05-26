@@ -155,7 +155,7 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 ### Analysis and Interpretability
 
 - **On the Biology of a Large Language Model**  
-  *Anthropic*. [[pdf](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)], 2025.03. 
+  *Anthropic*. [[pdf](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)], 2025.03. ![](https://img.shields.io/badge/BLOG-orange)
 - **Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models**  
   *Yifan Hou, Jiaoda Li, Yu Fei, Alessandro Stolfo, Wangchunshu Zhou, Guangtao Zeng, Antoine Bosselut, Mrinmaya Sachan*. [[pdf](https://arxiv.org/pdf/2310.14491)], 2023.10. ![](https://img.shields.io/badge/EMNLP2023-orange)
 - **A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task**  
@@ -179,7 +179,7 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **Uncovering Latent Chain of Thought Vectors in Language Models**  
   *Jason Zhang, Scott Viteri*. [[pdf](https://arxiv.org/pdf/2409.14026)], 2024.09. ![](https://img.shields.io/badge/ICLR2025Workshop-orange)
 - **Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation**  
-  *Yiming Wang, Pei Zhang, Baosong Yang, Derek F. Wong, Rui Wang*. [[pdf](https://arxiv.org/pdf/2409.14026)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange)![](https://img.shields.io/badge/CoE-blue) 
+  *Yiming Wang, Pei Zhang, Baosong Yang, Derek F. Wong, Rui Wang*. [[pdf](https://arxiv.org/pdf/2409.14026)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/CoE-blue) 
 
 ### Applications and Future Directions
 
