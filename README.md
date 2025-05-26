@@ -2,15 +2,36 @@
 <h1><img src="assets/logo.png" height="32px"/> Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning</h1> 
 </div>
 
+<div align="center">
+<b>Xinghao Chen</b><sup>1,2</sup>,
+<b>Anhao Zhao</b><sup>2</sup>,
+<b>Heming Xia</b><sup>1</sup>,
+<b>Xuan Lu</b><sup>2</sup>,
+<b>Hanlin Wang</b><sup>1</sup>,
+<b>Yanjun Chen</b><sup>1,2</sup>,
+<b>Wei Zhang</b><sup>2</sup>,
+<b>Jian Wang</b><sup>1</sup>,
+<b>Wenjie Li</b><sup>1</sup>,
+<b>Xiaoyu Shen</b><sup>2</sup>
+</div>
+
+<div align="center">
+<sup>1</sup>Department of Computing, The Hong Kong Polytechnic University
+</div>
+<div align="center">
+<sup>2</sup>Ningbo Digital Twin Institute, Eastern Institute of Technology, Ningbo, China
+</div>
+
+This repository contains a regularly updated paper list for **Latent CoT Reasoning**.
 
 <p align="center">
-<a href="https://awesome.re">
-  <img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 <a href="https://arxiv.org/abs/2505.16782">
   <img src="https://img.shields.io/badge/Arxiv-2505.16782-orange.svg"></a> 
+<a href="https://awesome.re">
+  <img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 <a href="https://opensource.org/licenses/Apache-2.0">
   <img src="https://img.shields.io/badge/License-Apache_2.0-green.svg"></a> 
-<a href="https://github.com/hemingkx/TokenSkip/pulls">
+<a href="https://github.com/EIT-NLP/Awesome-Latent-CoT/pulls">
     <img src="https://img.shields.io/badge/Contributions-welcome-blue.svg?style=flat"></a>
 <img src="https://img.shields.io/github/last-commit/EIT-NLP/Awesome-Latent-CoT/main?logo=github&color=blue" alt="Last Commit">
 </p>
@@ -19,8 +40,6 @@
 Whereof one cannot speak, thereof one must be silent.
 -- Ludwig Wittgenstein
 </em></p>
-This repository is for our paper: 
-[Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.16782).
 
 Reasoning in latent space shifts the way AI models think, moving beyond language tokens to represent thought processes in a more abstract, non-language space. Just as humans often think without words, latent space allows for more flexible and efficient reasoning.
 
