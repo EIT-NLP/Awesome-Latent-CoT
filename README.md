@@ -193,6 +193,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Hongfei Xue, Yufeng Tang, Hexin Liu, Jun Zhang, Xuelong Geng, Lei Xie*. [[pdf](https://arxiv.org/pdf/2504.20835)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/XS--CoTs-blue)
 - **Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**  
   *Jiacheng Ye, Shansan Gong, Liheng Chen, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Xin Jiang, Zhenguo Li, Wei Bi, Lingpeng Kong*. [[pdf](https://arxiv.org/pdf/2402.07754)], 2024.02. ![](https://img.shields.io/badge/NIPS2024-orange) ![](https://img.shields.io/badge/DoT-blue)
+- **Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**  
+  *Zemin Huang, Zhiyang Chen, Zijun Wang, Tiancheng Li, Guo-Jun Qi*. [[pdf](https://arxiv.org/pdf/2505.10446)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DCoLT-blue)
 - **Multimodal Latent Language Modeling with Next-Token Diffusion**  
   *Yutao Sun, Hangbo Bao, Wenhui Wang, Zhiliang Peng, Li Dong, Shaohan Huang, Jianyong Wang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2412.08635)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentLM-blue)
 - **SEAL: Steerable Reasoning Calibration of Large Language Models for Free**  
