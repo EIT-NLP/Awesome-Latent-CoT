@@ -8,6 +8,8 @@
 <b>Heming Xia</b><sup>1</sup>,
 <b>Xuan Lu</b><sup>2</sup>,
 <b>Hanlin Wang</b><sup>1</sup>,
+</div>
+<div align="center">
 <b>Yanjun Chen</b><sup>1,2</sup>,
 <b>Wei Zhang</b><sup>2</sup>,
 <b>Jian Wang</b><sup>1</sup>,
@@ -48,13 +50,6 @@ Reasoning in latent space shifts the way AI models think, moving beyond language
 2. **Lower Latency**: It allows for higher information density, reducing the need for token-based decoding and speeding up reasoning.
 
 This approach brings AI closer to human-like cognition, enabling faster, more flexible, and powerful models for real-world tasks.
-
-<p align="center">
-<img src="assets/Intro.png" width = "95%" alt="" align=center />
-</p>
-
-
-
 
 ## Updates
 
