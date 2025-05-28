@@ -89,7 +89,7 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 #### Discrete Tokens
 
 - **Think before you speak: Training language models with pause tokens**  
-  *Sachin Goyal,Ziwei Ji, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar, Vaishnavh Nagarajan*. [[pdf](https://arxiv.org/pdf/2310.02226)], 2023.10. ![](https://img.shields.io/badge/ICLR2024-orange) ![](https://img.shields.io/badge/pause_tokens-blue)
+  *Sachin Goyal,Ziwei Ji, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar, Vaishnavh Nagarajan*. [[pdf](https://arxiv.org/pdf/2310.02226)], 2023.10. ![](https://img.shields.io/badge/ICLR2024-orange) ![](https://img.shields.io/badge/pause_tokens-blue) ![](https://img.shields.io/badge/Pretraining-lightgray)
 - **Guiding Language Model Reasoning with Planning Tokens**  
   *Xinyi Wang, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, William Yang Wang, Alessandro Sordoni*. [[pdf](https://arxiv.org/pdf/2310.05707)], [[code](https://github.com/WANGXinyiLinda/planning_tokens)], 2023.10. ![](https://img.shields.io/badge/COLM2024-orange) ![](https://img.shields.io/badge/planning_tokens-blue)
 - **Thinking Tokens for Language Modeling**  
@@ -97,7 +97,7 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **Let's think dot by dot: Hidden computation in transformer language models**  
   *Jacob Pfau, William Merrill, Samuel R. Bowman*. [[pdf](https://arxiv.org/pdf/2404.15758)], [[code](https://github.com/JacobPfau/fillerTokens)], 2024.04. ![](https://img.shields.io/badge/COLM2024-orange) ![](https://img.shields.io/badge/filler_tokens-blue)
 - **Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**  
-  *Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman*. [[pdf](https://arxiv.org/pdf/2403.09629)], 2024.03. ![](https://img.shields.io/badge/COLM2024-orange) ![](https://img.shields.io/badge/Quiet--STaR-blue)
+  *Eric Zelikman, Georges Harik, Yijia Shao, Varuna Jayasiri, Nick Haber, Noah D. Goodman*. [[pdf](https://arxiv.org/pdf/2403.09629)], 2024.03. ![](https://img.shields.io/badge/COLM2024-orange) ![](https://img.shields.io/badge/Quiet--STaR-blue) ![](https://img.shields.io/badge/Pretraining-lightgray)
 - **Reasoning to Learn from Latent Thoughts**  
   *Yangjun Ruan, Neil Band, Chris J. Maddison, Tatsunori Hashimoto*. [[pdf](https://arxiv.org/pdf/2503.18866)], [[code](https://github.com/ryoungj/BoLT)], 2025.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/BoLT-blue)
 - **Mining Hidden Thoughts from Texts: Evaluating Continual Pretraining with Synthetic Data for LLM Reasoning**  
@@ -107,7 +107,7 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning**  
   *DiJia Su, Hanlin Zhu, Yingchen Xu, Jiantao Jiao, Yuandong Tian, Qinqing Zheng*. [[pdf](https://arxiv.org/pdf/2502.03275)], 2025.02.  ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VQ--VAE-lightgray)
 - **Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes**  
-  *Zhuocheng Gong, Jian Guan, Wei Wu, Huishuai Zhang, Dongyan Zhao*. [[pdf](https://arxiv.org/pdf/2505.04993)], 2025.02.  ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LPC-lightgray)
+  *Zhuocheng Gong, Jian Guan, Wei Wu, Huishuai Zhang, Dongyan Zhao*. [[pdf](https://arxiv.org/pdf/2505.04993)], 2025.02.  ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LPC-blue)
 - **Efficient Pretraining Length Scaling**  
   *Bohong Wu, Shen Yan, Sijun Zhang, Jianqiao Lu, Yutao Zeng, Ya Wang, Xun Zhou*. [[pdf](https://arxiv.org/pdf/2504.14992)], 2025.04.  ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PHD--Transformer-blue)
 
@@ -128,10 +128,20 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning**  
   *Yige Xu, Xu Guo, Zhiwei Zeng, Chunyan Miao*. [[pdf](https://arxiv.org/pdf/2505.11484)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SoftCoT++-blue)
 - **LLM Pretraining with Continuous Concepts**  
-  *Jihoon Tack, Jack Lanchantin, Jane Yu, Andrew Cohen, Ilia Kulikov, Janice Lan, Shibo Hao, Yuandong Tian, Jason Weston, Xian Li*. [[pdf](https://arxiv.org/pdf/2502.08524)], [[code](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoCoMix-blue)
+  *Jihoon Tack, Jack Lanchantin, Jane Yu, Andrew Cohen, Ilia Kulikov, Janice Lan, Shibo Hao, Yuandong Tian, Jason Weston, Xian Li*. [[pdf](https://arxiv.org/pdf/2502.08524)], [[code](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoCoMix-blue) ![](https://img.shields.io/badge/Pretraining-lightgray)
+- **Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space**  
+  *Zhen Zhang, Xuehai He, Weixiang Yan, Ao Shen, Chenyang Zhao, Shuohang Wang, Yelong Shen, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2505.15778)], [[code](https://github.com/eric-ai-lab/Soft-Thinking)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Soft_Thinking-blue) ![](https://img.shields.io/badge/Training_free-lightgray)
+- **Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains**  
+  *Wenhui Tan, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Ruihua Song*. [[pdf](https://arxiv.org/pdf/2505.16552)], [[code](https://colar-latent-reasoning.github.io/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoLaR-blue) ![](https://img.shields.io/badge/RL-lightgray)
+- **Hybrid Latent Reasoning via Reinforcement Learning**  
+  *Jihoon Tack, Jack Lanchantin, Jane Yu, Andrew Cohen, Ilia Kulikov, Janice Lan, Shibo Hao, Yuandong Tian, Jason Weston, Xian Li*. [[pdf](https://arxiv.org/pdf/2502.08524)], [[code](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoCoMix-blue) ![](https://img.shields.io/badge/RL-lightgray)
+- **Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**  
+  *Zhenrui Yue, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang*. [[pdf](https://arxiv.org/pdf/2505.18454)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LATENTSEEK-blue) ![](https://img.shields.io/badge/RL-lightgray)
+
 ### Internal Mechanisms
 
 #### Structural CoT
+
 - **CoTFormer: A Chain-of-Thought Driven Architecture with Budget-Adaptive Computation Cost at Inference**   
   *Amirkeivan Mohtashami, Matteo Pagliardini, Martin Jaggi*. [[pdf](https://arxiv.org/abs/2310.10845)], 2024.08. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/CoTFormer-blue)
 - **Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**  
@@ -142,8 +152,11 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Yilong Chen, Junyuan Shang, Zhenyu Zhang, Yanxi Xie, Jiawei Sheng, Tingwen Liu, Shuohuan Wang, Yu Sun, Hua Wu, Haifeng Wang*. [[pdf](https://arxiv.org/pdf/2502.13842)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ITT-blue)
 - **Reasoning with Latent Thoughts: On the Power of Looped Transformers**  
   *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sashank J. Reddi, Sanjiv Kumar*. [[pdf](https://arxiv.org/pdf/2502.17416)], 2025.01. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Looped_Transformers-blue)
+- **System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**  
+  *Xiaoqiang Wang, Suyuchen Wang, Yun Zhu, Bang Liu*. [[pdf](https://arxiv.org/pdf/2505.18962)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System--1.5_Reasoning-blue)
 
 #### Representational CoT
+
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
   *Yuntian Deng, Kiran Prasad, Roland Fernandez, Paul Smolensky, Vishrav Chaudhary, Stuart Shieber*. [[pdf](https://arxiv.org/pdf/2311.01460)], [[code](https://github.com/da03/implicit_chain_of_thought/)], 2023.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/ICoT-blue) 
 - **From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step**  
@@ -179,6 +192,12 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Jason Zhang, Scott Viteri*. [[pdf](https://arxiv.org/pdf/2409.14026)], 2024.09. ![](https://img.shields.io/badge/ICLR2025Workshop-orange)
 - **Latent Space Chain-of-Embedding Enables Output-free LLM Self-Evaluation**  
   *Yiming Wang, Pei Zhang, Baosong Yang, Derek F. Wong, Rui Wang*. [[pdf](https://arxiv.org/pdf/2409.14026)], 2024.10. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/CoE-blue) 
+- **Internal Chain-of-Thought: Empirical Evidence for Layer-wise Subtask Scheduling in LLMs**  
+  *Zhipeng Yang, Junzhuo Li, Siyu Xia, Xuming Hu*. [[pdf](https://arxiv.org/pdf/2505.14530)], [[code](https://github.com/yzp11/Internal-Chain-of-Thought)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) 
+- **To CoT or To Loop? A Formal Comparison Between Chain-of-Thought and Looped Transformers**  
+  *Kevin Xu, Issei Sato*. [[pdf](https://arxiv.org/pdf/2505.19245)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) 
+- **Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought**  
+  *Hanlin Zhu, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2505.12514)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Applications and Future Directions
 
@@ -197,7 +216,11 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **Multimodal Latent Language Modeling with Next-Token Diffusion**  
   *Yutao Sun, Hangbo Bao, Wenhui Wang, Zhiliang Peng, Li Dong, Shaohan Huang, Jianyong Wang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2412.08635)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentLM-blue)
 - **SEAL: Steerable Reasoning Calibration of Large Language Models for Free**  
-  *Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang*. [[pdf](https://arxiv.org/pdf/2504.07986)], [[code](https://github.com/VITA-Group/SEAL)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang*. [[pdf](https://arxiv.org/pdf/2504.07986)], [[code](https://github.com/VITA-Group/SEAL)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Training_free-lightgray)
+- **SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**  
+  *Yang Liu, Ming Ma, Xiaomin Yu, Pengxiang Ding, Han Zhao, Mingyang Sun, Siteng Huang, Donglin Wang*. [[pdf](https://arxiv.org/pdf/2505.12448)], [[code](https://yliu-cs.github.io/SSR/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSR-blue) ![](https://img.shields.io/badge/Training_free-lightgray)
+- **Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models**  
+  *Thilo Hagendorff, Sarah Fabi*. [[pdf](https://arxiv.org/pdf/2504.10615)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/benchmark-lightgray)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
