@@ -197,7 +197,9 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **To CoT or To Loop? A Formal Comparison Between Chain-of-Thought and Looped Transformers**  
   *Kevin Xu, Issei Sato*. [[pdf](https://arxiv.org/pdf/2505.19245)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) 
 - **Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought**  
-  *Hanlin Zhu, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2505.12514)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Hanlin Zhu, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2505.12514)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Continuous Chain of Thought Enables Parallel Exploration and Reasoning**  
+  *Halil Alperen Gozeten, M. Emrullah Ildiz, Xuechen Zhang, Hrayr Harutyunyan, Ankit Singh Rawat, Samet Oymak*. [[pdf](https://www.arxiv.org/pdf/2505.23648)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoT2-blue)
 
 ### Applications and Future Directions
 
