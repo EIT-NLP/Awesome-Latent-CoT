@@ -154,6 +154,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sashank J. Reddi, Sanjiv Kumar*. [[pdf](https://arxiv.org/pdf/2502.17416)], 2025.01. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Looped_Transformers-blue)
 - **System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**  
   *Xiaoqiang Wang, Suyuchen Wang, Yun Zhu, Bang Liu*. [[pdf](https://arxiv.org/pdf/2505.18962)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System--1.5_Reasoning-blue)
+- **Pretraining Language Models to Ponder in Continuous Space**  
+  *Boyi Zeng, Shixiang Song, Siyuan Huang, Yixuan Wang, He Li, Ziwei He, Xinbing Wang, Zhiyu Li, Zhouhan Lin*. [[pdf](https://arxiv.org/pdf/2505.20674)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Pondering--Language--Model-blue)
 
 #### Representational CoT
 
