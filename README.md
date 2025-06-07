@@ -204,6 +204,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Hanlin Zhu, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2505.12514)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Continuous Chain of Thought Enables Parallel Exploration and Reasoning**  
   *Halil Alperen Gozeten, M. Emrullah Ildiz, Xuechen Zhang, Hrayr Harutyunyan, Ankit Singh Rawat, Samet Oymak*. [[pdf](https://www.arxiv.org/pdf/2505.23648)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoT2-blue)
+- **Do Language Models Use Their Depth Efficiently?**  
+  *Róbert Csordás, Christopher D. Manning, Christopher Potts*. [[pdf](https://arxiv.org/pdf/2505.13898)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Applications and Future Directions
 
