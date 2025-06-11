@@ -138,7 +138,9 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**  
   *Zhenrui Yue, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang*. [[pdf](https://arxiv.org/pdf/2505.13308)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LATENTSEEK-blue) ![](https://img.shields.io/badge/RL-lightgray)
 - **Enhancing Latent Computation in Transformers with Latent Tokens**  
-  *Yuchang Sun, Yanxi Chen, Yaliang Li, Bolin Ding*. [[pdf](https://arxiv.org/pdf/2505.12629)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Yuchang Sun, Yanxi Chen, Yaliang Li, Bolin Ding*. [[pdf](https://arxiv.org/pdf/2505.12629)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**  
+  *Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu*. [[pdf](https://arxiv.org/pdf/2506.08552)], [[code](https://anonymous.4open.science/r/Lateng-Reasoning-5C1D/README.md)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Internal Mechanisms
 
