@@ -174,14 +174,16 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 
 - **On the Biology of a Large Language Model**  
   *Anthropic*. [[pdf](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)], 2025.03. ![](https://img.shields.io/badge/BLOG-orange)
+- **Jump to Conclusions: Short-Cutting Transformers with Linear Transformations**  
+  *Alexander Yom Din, Taelin Karidi, Leshem Choshen, Mor Geva*. [[pdf](https://arxiv.org/pdf/2303.09435)], 2023.03. ![](https://img.shields.io/badge/LREC--COLING2024-orange)
 - **Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Models**  
   *Yifan Hou, Jiaoda Li, Yu Fei, Alessandro Stolfo, Wangchunshu Zhou, Guangtao Zeng, Antoine Bosselut, Mrinmaya Sachan*. [[pdf](https://arxiv.org/pdf/2310.14491)], 2023.10. ![](https://img.shields.io/badge/EMNLP2023-orange)
 - **A Mechanistic Analysis of a Transformer Trained on a Symbolic Multi-Step Reasoning Task**  
   *Jannik Brinkmann, Abhay Sheshadri, Victor Levoso, Paul Swoboda, Christian Bartelt*. [[pdf](https://arxiv.org/pdf/2402.11917)], 2024.02. ![](https://img.shields.io/badge/ACL2024Findings-orange)
 - **Do Large Language Models Latently Perform Multi-Hop Reasoning?**  
   *Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, Sebastian Riedel*. [[pdf](https://arxiv.org/pdf/2402.16837)], 2024.02. ![](https://img.shields.io/badge/ACL2024-orange)
-- **Jump to Conclusions: Short-Cutting Transformers with Linear Transformations**  
-  *Alexander Yom Din, Taelin Karidi, Leshem Choshen, Mor Geva*. [[pdf](https://arxiv.org/pdf/2303.09435)], 2023.03. ![](https://img.shields.io/badge/LREC--COLING2024-orange)
+- **Understanding and Patching Compositional Reasoning in LLMs**  
+  *Zhaoyi Li, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian, Ying Wei*. [[pdf](https://arxiv.org/pdf/2402.14328)], 2024.02. ![](https://img.shields.io/badge/ACL2024Findings-orange) ![](https://img.shields.io/badge/CREME-blue)
 - **Distributional reasoning in LLMs: Parallel reasoning processes in multi-hop reasoning**  
   *Yuval Shalev, Amir Feder, Ariel Goldstein*. [[pdf](https://arxiv.org/abs/2406.13858)], 2024.06. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization**  
