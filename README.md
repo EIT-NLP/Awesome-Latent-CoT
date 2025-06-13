@@ -139,6 +139,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Zhenrui Yue, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang*. [[pdf](https://arxiv.org/pdf/2505.13308)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LATENTSEEK-blue) ![](https://img.shields.io/badge/RL-lightgray)
 - **Enhancing Latent Computation in Transformers with Latent Tokens**  
   *Yuchang Sun, Yanxi Chen, Yaliang Li, Bolin Ding*. [[pdf](https://arxiv.org/pdf/2505.12629)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**  
+  *Xiaoqiang Wang, Suyuchen Wang, Yun Zhu, Bang Liu*. [[pdf](https://arxiv.org/pdf/2505.18962)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System--1.5_Reasoning-blue)
 - **Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**  
   *Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu*. [[pdf](https://arxiv.org/pdf/2506.08552)], [[code](https://anonymous.4open.science/r/Lateng-Reasoning-5C1D/README.md)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) 
 
@@ -156,8 +158,6 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Yilong Chen, Junyuan Shang, Zhenyu Zhang, Yanxi Xie, Jiawei Sheng, Tingwen Liu, Shuohuan Wang, Yu Sun, Hua Wu, Haifeng Wang*. [[pdf](https://arxiv.org/pdf/2502.13842)], 2025.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ITT-blue)
 - **Reasoning with Latent Thoughts: On the Power of Looped Transformers**  
   *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sashank J. Reddi, Sanjiv Kumar*. [[pdf](https://arxiv.org/pdf/2502.17416)], 2025.01. ![](https://img.shields.io/badge/ICLR2025-orange) ![](https://img.shields.io/badge/Looped_Transformers-blue)
-- **System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**  
-  *Xiaoqiang Wang, Suyuchen Wang, Yun Zhu, Bang Liu*. [[pdf](https://arxiv.org/pdf/2505.18962)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System--1.5_Reasoning-blue)
 - **Pretraining Language Models to Ponder in Continuous Space**  
   *Boyi Zeng, Shixiang Song, Siyuan Huang, Yixuan Wang, He Li, Ziwei He, Xinbing Wang, Zhiyu Li, Zhouhan Lin*. [[pdf](https://arxiv.org/pdf/2505.20674)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Pondering%20LM-blue)
 
