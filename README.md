@@ -143,6 +143,8 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
   *Xiaoqiang Wang, Suyuchen Wang, Yun Zhu, Bang Liu*. [[pdf](https://arxiv.org/pdf/2505.18962)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System--1.5_Reasoning-blue)
 - **Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**  
   *Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu*. [[pdf](https://arxiv.org/pdf/2506.08552)], [[code](https://anonymous.4open.science/r/Lateng-Reasoning-5C1D/README.md)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) 
+- **DART: Distilling Autoregressive Reasoning to Silent Thought**  
+  *Nan Jiang, Ziming Wu, De-Chuan Zhan, Fuming Lai, Shaobing Lian*. [[pdf](https://arxiv.org/pdf/2506.11752)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DART-blue)
 
 ### Internal Mechanisms
 
