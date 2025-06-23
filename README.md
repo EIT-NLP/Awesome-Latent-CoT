@@ -232,9 +232,11 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 - **SEAL: Steerable Reasoning Calibration of Large Language Models for Free**  
   *Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang*. [[pdf](https://arxiv.org/pdf/2504.07986)], [[code](https://github.com/VITA-Group/SEAL)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Training_free-lightgray)
 - **SSR: Enhancing Depth Perception in Vision-Language Models via Rationale-Guided Spatial Reasoning**  
-  *Yang Liu, Ming Ma, Xiaomin Yu, Pengxiang Ding, Han Zhao, Mingyang Sun, Siteng Huang, Donglin Wang*. [[pdf](https://arxiv.org/pdf/2505.12448)], [[code](https://yliu-cs.github.io/SSR/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSR-blue) ![](https://img.shields.io/badge/Training_free-lightgray)
+  *Yang Liu, Ming Ma, Xiaomin Yu, Pengxiang Ding, Han Zhao, Mingyang Sun, Siteng Huang, Donglin Wang*. [[pdf](https://arxiv.org/pdf/2505.12448)], [[code](https://yliu-cs.github.io/SSR/)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SSR-blue) 
 - **Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models**  
   *Thilo Hagendorff, Sarah Fabi*. [[pdf](https://arxiv.org/pdf/2504.10615)], 2025.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/benchmark-lightgray)
+- **Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**  
+  *Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan*. [[pdf](https://arxiv.org/pdf/2506.17218)], [[code](https://github.com/UMass-Embodied-AGI/Mirage)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Mirage-blue) 
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
