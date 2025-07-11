@@ -53,6 +53,20 @@ Reasoning in latent space shifts the way AI models think, moving beyond language
 
 This approach brings AI closer to human-like cognition, enabling faster, more flexible, and powerful models for real-world tasks.
 
+## Citation
+
+```bibtex
+@misc{chen2025reasoninglanguagecomprehensivesurvey,
+      title={Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning}, 
+      author={Xinghao Chen and Anhao Zhao and Heming Xia and Xuan Lu and Hanlin Wang and Yanjun Chen and Wei Zhang and Jian Wang and Wenjie Li and Xiaoyu Shen},
+      year={2025},
+      eprint={2505.16782},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.16782}, 
+}
+```
+
 ## Updates
 
 - 2025-05-22: 📝 The survey is now available on [arXiv](https://arxiv.org/abs/2505.16782)!
@@ -72,7 +86,6 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
     - [Applications and Future Directions](#applications-and-future-directions)
 - [Resources](#resources)
 - [Acknowledgements](#acknowledgements)
-- [Citation](#citation)
 
 ## Keywords Convention
 
@@ -244,20 +257,9 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
 
+[LatentCoT-Horizon](https://github.com/multimodal-art-projection/LatentCoT-Horizon): a list of papers contains a larger scope of latent reasoning.
+
 
 ## Acknowledgements
 
 If We’ve accidentally missed your papers on the list, please reach out to us, and we’ll make sure to add them as soon as possible!
-
-## Citation
-
-```bibtex
-@misc{chen2025reasoninglanguagecomprehensivesurvey,
-      title={Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning}, 
-      author={Xinghao Chen and Anhao Zhao and Heming Xia and Xuan Lu and Hanlin Wang and Yanjun Chen and Wei Zhang and Jian Wang and Wenjie Li and Xiaoyu Shen},
-      year={2025},
-      eprint={2505.16782},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.16782}, 
-}
