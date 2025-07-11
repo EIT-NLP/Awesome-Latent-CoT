@@ -55,8 +55,10 @@ This approach brings AI closer to human-like cognition, enabling faster, more fl
 
 ## Citation
 
+If you find our survey useful for your research, please consider citing the following paper:
+
 ```bibtex
-@misc{chen2025reasoninglanguagecomprehensivesurvey,
+@article{eit2025latentcot,
       title={Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning}, 
       author={Xinghao Chen and Anhao Zhao and Heming Xia and Xuan Lu and Hanlin Wang and Yanjun Chen and Wei Zhang and Jian Wang and Wenjie Li and Xiaoyu Shen},
       year={2025},
