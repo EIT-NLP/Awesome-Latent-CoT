@@ -231,7 +231,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Continuous Chain of Thought Enables Parallel Exploration and Reasoning**  
   *Halil Alperen Gozeten, M. Emrullah Ildiz, Xuechen Zhang, Hrayr Harutyunyan, Ankit Singh Rawat, Samet Oymak*. [[pdf](https://www.arxiv.org/pdf/2505.23648)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoT2-blue)
 - **Do Language Models Use Their Depth Efficiently?**  
-  *Róbert Csordás, Christopher D. Manning, Christopher Potts*. [[pdf](https://arxiv.org/pdf/2505.13898)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Róbert Csordás, Christopher D. Manning, Christopher Potts*. [[pdf](https://arxiv.org/pdf/2505.13898)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer**  
+  *Wenquan Lu, Yuechuan Yang, Kyle Lee, Yanshu Li, Enqi Liu*. [[pdf](https://arxiv.org/pdf/2507.02199)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Applications and Future Directions
 
