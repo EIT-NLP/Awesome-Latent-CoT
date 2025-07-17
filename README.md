@@ -183,6 +183,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Ruike Zhu, Hanwen Zhang, Tianyu Shi, Chi Wang, Tianyi Zhou, Zengyi Qin*. [[pdf](https://arxiv.org/pdf/2506.18233)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VLD-blue)
 - **Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**  
   *Ziyue Li, Yang Li, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2507.07996)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoLa-blue)
+- **Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation**  
+  *Sangmin Bae, Yujin Kim, Reza Bayat, Sungnyun Kim, Jiyoun Ha, Tal Schuster, Adam Fisch, Hrayr Harutyunyan, Ziwei Ji, Aaron Courville, Se-Young Yun*. [[pdf](https://arxiv.org/pdf/2507.10524)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MoR-blue)
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
