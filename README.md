@@ -181,6 +181,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Boyi Zeng, Shixiang Song, Siyuan Huang, Yixuan Wang, He Li, Ziwei He, Xinbing Wang, Zhiyu Li, Zhouhan Lin*. [[pdf](https://arxiv.org/pdf/2505.20674)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Pondering%20LM-blue)
 - **The 4th Dimension for Scaling Model Size**  
   *Ruike Zhu, Hanwen Zhang, Tianyu Shi, Chi Wang, Tianyi Zhou, Zengyi Qin*. [[pdf](https://arxiv.org/pdf/2506.18233)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VLD-blue)
+- **Hierarchical Reasoning Model**  
+  *Guan Wang, Jin Li, Yuhao Sun, Xing Chen, Changling Liu, Yue Wu, Meng Lu, Sen Song, Yasin Abbasi Yadkori*. [[pdf](https://arxiv.org/pdf/2506.21734)], [[code](https://github.com/sapientinc/HRM)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HRM-blue)
 - **Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**  
   *Ziyue Li, Yang Li, Tianyi Zhou*. [[pdf](https://arxiv.org/pdf/2507.07996)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoLa-blue)
 - **Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation**  
