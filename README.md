@@ -239,7 +239,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Do Language Models Use Their Depth Efficiently?**  
   *Róbert Csordás, Christopher D. Manning, Christopher Potts*. [[pdf](https://arxiv.org/pdf/2505.13898)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer**  
-  *Wenquan Lu, Yuechuan Yang, Kyle Lee, Yanshu Li, Enqi Liu*. [[pdf](https://arxiv.org/pdf/2507.02199)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Wenquan Lu, Yuechuan Yang, Kyle Lee, Yanshu Li, Enqi Liu*. [[pdf](https://arxiv.org/pdf/2507.02199)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
+- **LLMs Have a Heart of Stone: Demystifying the Soft Thinking Ability of Large Reasoning Models**  
+  *Chünhung Wu, Jinliang Lu, Zixuan Ren, Gangqiang Hu, Zhi Wu, Dai Dai, Hua Wu*. [[pdf](https://arxiv.org/pdf/2508.03440)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Applications and Future Directions
 
