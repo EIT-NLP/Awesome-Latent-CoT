@@ -273,6 +273,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Enze Liu, Bowen Zheng, Xiaolei Wang, Wayne Xin Zhao, Jinpeng Wang, Sheng Chen, Ji-Rong Wen*. [[pdf](https://arxiv.org/pdf/2505.16865)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LARES-blue)
 - **Reinforced Latent Reasoning for LLM-based Recommendation**  
   *Yang Zhang, Wenxin Xu, Xiaoyan Zhao, Wenjie Wang, Fuli Feng, Xiangnan He, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2505.19092)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentR3-blue) 
+- **Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models**  
+  *Tan-Hanh Pham, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2508.12587)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/MCOUT-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
