@@ -164,6 +164,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Haoyi Wu, Zhihao Teng, Kewei Tu*. [[pdf](https://arxiv.org/pdf/2506.18582)], 2025.06. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/PCCoT-blue)
 - **SynAdapt: Learning Adaptive Reasoning in Large Language Models via Synthetic Continuous Chain-of-Thought**  
   *Jianwei Wang, Ziming Wu, Fuming Lai, Shaobing Lian, Ziqian Zeng*. [[pdf](https://arxiv.org/pdf/2508.00574)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SynAdapt-blue)
+- **LTA-thinker: Latent Thought-Augmented Training Framework for Large Language Models on Complex Reasoning**  
+  *Jiaqi Wang, Binquan Ji, Haibo Luo, Yiyang Qi, Ruiting Li, Huiyan Wang, Yuantao Han, Cangyi Yang, jiaxu Zhang, Feiliang Ren*. [[pdf](https://arxiv.org/pdf/2509.12875)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Internal Mechanisms
 
