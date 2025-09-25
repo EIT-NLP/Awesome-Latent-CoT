@@ -166,6 +166,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Jianwei Wang, Ziming Wu, Fuming Lai, Shaobing Lian, Ziqian Zeng*. [[pdf](https://arxiv.org/pdf/2508.00574)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SynAdapt-blue)
 - **LTA-thinker: Latent Thought-Augmented Training Framework for Large Language Models on Complex Reasoning**  
   *Jiaqi Wang, Binquan Ji, Haibo Luo, Yiyang Qi, Ruiting Li, Huiyan Wang, Yuantao Han, Cangyi Yang, jiaxu Zhang, Feiliang Ren*. [[pdf](https://arxiv.org/pdf/2509.12875)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Soft Tokens, Hard Truths**  
+  *Natasha Butt, Ariel Kwiatkowski, Ismail Labiad, Julia Kempe, Yann Ollivier*. [[pdf](https://arxiv.org/pdf/2509.19170)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Internal Mechanisms
 
