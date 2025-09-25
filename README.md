@@ -165,9 +165,11 @@ If you find our survey useful for your research, please consider citing the foll
 - **SynAdapt: Learning Adaptive Reasoning in Large Language Models via Synthetic Continuous Chain-of-Thought**  
   *Jianwei Wang, Ziming Wu, Fuming Lai, Shaobing Lian, Ziqian Zeng*. [[pdf](https://arxiv.org/pdf/2508.00574)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SynAdapt-blue)
 - **LTA-thinker: Latent Thought-Augmented Training Framework for Large Language Models on Complex Reasoning**  
-  *Jiaqi Wang, Binquan Ji, Haibo Luo, Yiyang Qi, Ruiting Li, Huiyan Wang, Yuantao Han, Cangyi Yang, jiaxu Zhang, Feiliang Ren*. [[pdf](https://arxiv.org/pdf/2509.12875)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Jiaqi Wang, Binquan Ji, Haibo Luo, Yiyang Qi, Ruiting Li, Huiyan Wang, Yuantao Han, Cangyi Yang, jiaxu Zhang, Feiliang Ren*. [[pdf](https://arxiv.org/pdf/2509.12875)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LTA--thinker-blue)
 - **Soft Tokens, Hard Truths**  
   *Natasha Butt, Ariel Kwiatkowski, Ismail Labiad, Julia Kempe, Yann Ollivier*. [[pdf](https://arxiv.org/pdf/2509.19170)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **SIM-CoT: Supervised Implicit Chain-of-Thought**  
+  *Xilin Wei, Xiaoran Liu, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Jiaqi Wang, Xipeng Qiu, Dahua Lin*. [[pdf](https://arxiv.org/pdf/2509.20317)], [[code](https://github.com/InternLM/SIM-CoT)] 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SIM--CoT-blue)
 
 ### Internal Mechanisms
 
@@ -284,6 +286,8 @@ If you find our survey useful for your research, please consider citing the foll
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
 
 [LatentCoT-Horizon](https://github.com/multimodal-art-projection/LatentCoT-Horizon): a list of papers contains a larger scope of latent reasoning.
+
+[awesome-llm-implicit-reasoning](https://github.com/digailab/awesome-llm-implicit-reasoning): a list of papers contains implicit reasoning in LLMs.
 
 
 ## Acknowledgements
