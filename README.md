@@ -169,7 +169,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Soft Tokens, Hard Truths**  
   *Natasha Butt, Ariel Kwiatkowski, Ismail Labiad, Julia Kempe, Yann Ollivier*. [[pdf](https://arxiv.org/pdf/2509.19170)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **SIM-CoT: Supervised Implicit Chain-of-Thought**  
-  *Xilin Wei, Xiaoran Liu, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Jiaqi Wang, Xipeng Qiu, Dahua Lin*. [[pdf](https://arxiv.org/pdf/2509.20317)], [[code](https://github.com/InternLM/SIM-CoT)] 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SIM--CoT-blue)
+  *Xilin Wei, Xiaoran Liu, Yuhang Zang, Xiaoyi Dong, Yuhang Cao, Jiaqi Wang, Xipeng Qiu, Dahua Lin*. [[pdf](https://arxiv.org/pdf/2509.20317)], [[code](https://github.com/InternLM/SIM-CoT)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SIM--CoT-blue)
+- **R-Capsule: Compressing High-Level Plans for Efficient Large Language Model Reasoning**  
+  *Hongyu Shan, Mingyang Song, Chang Dai, Di Liang, Han Chen*. [[pdf](https://arxiv.org/pdf/2509.22131)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--Capsule-blue)
 
 ### Internal Mechanisms
 
