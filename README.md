@@ -283,6 +283,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Yang Zhang, Wenxin Xu, Xiaoyan Zhao, Wenjie Wang, Fuli Feng, Xiangnan He, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2505.19092)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentR3-blue) 
 - **Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models**  
   *Tan-Hanh Pham, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2508.12587)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/MCOUT-blue)
+- **Latent Visual Reasoning**  
+  *Bangzheng Li, Ximeng Sun, Jiang Liu, Ze Wang, Jialian Wu, Xiaodong Yu, Hao Chen, Emad Barsoum, Muhao Chen, Zicheng Liu*. [[pdf](https://arxiv.org/pdf/2509.24251)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LVR-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
