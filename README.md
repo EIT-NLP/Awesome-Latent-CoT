@@ -125,6 +125,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Zhuocheng Gong, Jian Guan, Wei Wu, Huishuai Zhang, Dongyan Zhao*. [[pdf](https://arxiv.org/pdf/2505.04993)], 2025.02.  ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LPC-blue)
 - **Efficient Pretraining Length Scaling**  
   *Bohong Wu, Shen Yan, Sijun Zhang, Jianqiao Lu, Yutao Zeng, Ya Wang, Xun Zhou*. [[pdf](https://arxiv.org/pdf/2504.14992)], 2025.04.  ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PHD--Transformer-blue)
+- **Fast Thinking for Large Language Models**  
+  *Haoyu Zheng, Zhuonan Wang, Yuqian Yuan, Tianwei Lin, Wenqiao Zhang, Zheqi Lv, Juncheng Li, Siliang Tang, Yueting Zhuang, Hongyang He*. [[pdf](https://arxiv.org/pdf/2509.23633)], 2025.09.  ![](https://img.shields.io/badge/Arxiv-orange)
 
 #### Continuous Tokens 
 
@@ -178,6 +180,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Jiayu Liu, Zhenya Huang, Anya Sims, Enhong Chen, Yee Whye Teh, Ning Miao*. [[pdf](https://arxiv.org/pdf/2509.25020)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MARCOS-blue)
 - **Latent Thinking Optimization: Your Latent Reasoning Language Model Secretly Encodes Reward Signals in its Latent Thoughts**  
   *Hanwen Du, Yuxin Dong, Xia Ning*. [[pdf](https://arxiv.org/pdf/2509.26314)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LTO-blue)
+- **LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space**  
+  *Guibin Zhang, Fanci Meng, Guancheng Wan, Zherui Li, Kun Wang, Zhenfei Yin, Lei Bai, Shuicheng Yan*. [[pdf](https://arxiv.org/pdf/2509.24771)], [[code](https://github.com/jins7/LatentEvolve)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentEvolve-blue)
 
 ### Internal Mechanisms
 
@@ -255,7 +259,11 @@ If you find our survey useful for your research, please consider citing the foll
 - **Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer**  
   *Wenquan Lu, Yuechuan Yang, Kyle Lee, Yanshu Li, Enqi Liu*. [[pdf](https://arxiv.org/pdf/2507.02199)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **LLMs Have a Heart of Stone: Demystifying the Soft Thinking Ability of Large Reasoning Models**  
-  *Chünhung Wu, Jinliang Lu, Zixuan Ren, Gangqiang Hu, Zhi Wu, Dai Dai, Hua Wu*. [[pdf](https://arxiv.org/pdf/2508.03440)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Chünhung Wu, Jinliang Lu, Zixuan Ren, Gangqiang Hu, Zhi Wu, Dai Dai, Hua Wu*. [[pdf](https://arxiv.org/pdf/2508.03440)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)
+- **A Formal Comparison Between Chain-of-Thought and Latent Thought**  
+  *Kevin Xu, Issei Sato*. [[pdf](https://arxiv.org/pdf/2509.25239)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought**  
+  *Hanlin Zhu, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2509.23365)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Applications and Future Directions
 
