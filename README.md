@@ -174,6 +174,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Hongyu Shan, Mingyang Song, Chang Dai, Di Liang, Han Chen*. [[pdf](https://arxiv.org/pdf/2509.22131)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/R--Capsule-blue)
 - **Pretraining LLM with Latent Thoughts in Continuous Space**  
   *Boyi Zeng, He Li, Shixiang Song, Yixuan Wang, Ziwei He, Xinbing Wang, Zhouhan Lin*. [[pdf](https://arxiv.org/pdf/2509.23184)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Pythia Arch-blue)
+- **MARCOS: Deep Thinking by Markov Chain of Continuous Thoughts**  
+  *Jiayu Liu, Zhenya Huang, Anya Sims, Enhong Chen, Yee Whye Teh, Ning Miao*. [[pdf](https://arxiv.org/pdf/2509.23184)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MARCOS-blue)
 
 ### Internal Mechanisms
 
