@@ -182,6 +182,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Hanwen Du, Yuxin Dong, Xia Ning*. [[pdf](https://arxiv.org/pdf/2509.26314)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LTO-blue)
 - **LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space**  
   *Guibin Zhang, Fanci Meng, Guancheng Wan, Zherui Li, Kun Wang, Zhenfei Yin, Lei Bai, Shuicheng Yan*. [[pdf](https://arxiv.org/pdf/2509.24771)], [[code](https://github.com/jins7/LatentEvolve)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentEvolve-blue)
+- **SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs**  
+  *Dachuan Shi, Abedelkadir Asi, Keying Li, Xiangchi Yuan, Leyan Pan, Wenke Lee, Wen Xiao*. [[pdf](https://arxiv.org/pdf/2510.05069)], [[code](https://github.com/sdc17/SwiReasoning)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwiReasoning-blue)
 
 ### Internal Mechanisms
 
