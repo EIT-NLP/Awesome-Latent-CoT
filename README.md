@@ -184,6 +184,10 @@ If you find our survey useful for your research, please consider citing the foll
   *Guibin Zhang, Fanci Meng, Guancheng Wan, Zherui Li, Kun Wang, Zhenfei Yin, Lei Bai, Shuicheng Yan*. [[pdf](https://arxiv.org/pdf/2509.24771)], [[code](https://github.com/jins7/LatentEvolve)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentEvolve-blue)
 - **SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs**  
   *Dachuan Shi, Abedelkadir Asi, Keying Li, Xiangchi Yuan, Leyan Pan, Wenke Lee, Wen Xiao*. [[pdf](https://arxiv.org/pdf/2510.05069)], [[code](https://github.com/sdc17/SwiReasoning)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwiReasoning-blue)
+- **Parallel Test-Time Scaling for Latent Reasoning Models**  
+  *Runyang You, Yongqi Li, Meng Liu, Wenjie Wang, Liqiang Nie, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2510.07745)], [[code](https://github.com/YRYangang/LatentTTS)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentRM-blue)
+- **Thinking on the Fly: Test-Time Reasoning Enhancement via Latent Thought Policy Optimization**  
+  *Wengao Ye, Yan Liang, Lianlei Shan*. [[pdf](https://arxiv.org/pdf/2510.04182)], [[code](https://github.com/ltpo2025/LTPO)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LTPO-blue)
 
 ### Internal Mechanisms
 
@@ -211,6 +215,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Sangmin Bae, Yujin Kim, Reza Bayat, Sungnyun Kim, Jiyoun Ha, Tal Schuster, Adam Fisch, Hrayr Harutyunyan, Ziwei Ji, Aaron Courville, Se-Young Yun*. [[pdf](https://arxiv.org/pdf/2507.10524)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MoR-blue)
 - **Less is More: Recursive Reasoning with Tiny Networks**  
   *Alexia Jolicoeur-Martineau*. [[pdf](https://www.arxiv.org/pdf/2510.04871)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TRM-blue)
+- **Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts**  
+  *Yeskendir Koishekenov, Aldo Lipani, Nicola Cancedda*. [[pdf](https://arxiv.org/pdf/2510.07358)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ETD-blue)
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
@@ -267,7 +273,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **A Formal Comparison Between Chain-of-Thought and Latent Thought**  
   *Kevin Xu, Issei Sato*. [[pdf](https://arxiv.org/pdf/2509.25239)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought**  
-  *Hanlin Zhu, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2509.23365)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Hanlin Zhu, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2509.23365)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Hierarchical Reasoning Models: Perspectives and Misconceptions**  
+  *Renee Ge, Qianli Liao, Tomaso Poggio*. [[pdf](https://arxiv.org/pdf/2510.00355v2)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Applications and Future Directions
 
@@ -303,6 +311,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Tan-Hanh Pham, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2508.12587)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/MCOUT-blue)
 - **Latent Visual Reasoning**  
   *Bangzheng Li, Ximeng Sun, Jiang Liu, Ze Wang, Jialian Wu, Xiaodong Yu, Hao Chen, Emad Barsoum, Muhao Chen, Zicheng Liu*. [[pdf](https://arxiv.org/pdf/2509.24251)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LVR-blue)
+- **LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning**  
+  *Haoqiang Kang, Yizhe Zhang, Nikki Lijing Kuang, Nicklas Majamaki, Navdeep Jaitly, Yi-An Ma, Lianhui Qin*. [[pdf](https://www.arxiv.org/pdf/2510.04573)], [[code](https://github.com/mk322/LaDiR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LVR-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
