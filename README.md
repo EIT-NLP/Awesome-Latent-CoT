@@ -188,6 +188,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Runyang You, Yongqi Li, Meng Liu, Wenjie Wang, Liqiang Nie, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2510.07745)], [[code](https://github.com/YRYangang/LatentTTS)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentRM-blue)
 - **Thinking on the Fly: Test-Time Reasoning Enhancement via Latent Thought Policy Optimization**  
   *Wengao Ye, Yan Liang, Lianlei Shan*. [[pdf](https://arxiv.org/pdf/2510.04182)], [[code](https://github.com/ltpo2025/LTPO)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LTPO-blue)
+- **Towards Inference-time Scaling for Continuous Space Reasoning**  
+  *Minghan Wang, Thuy-Trang Vu, Ehsan Shareghi, Gholamreza Haffari*. [[pdf](https://arxiv.org/pdf/2510.12167)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Internal Mechanisms
 
