@@ -219,6 +219,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Alexia Jolicoeur-Martineau*. [[pdf](https://www.arxiv.org/pdf/2510.04871)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/TRM-blue)
 - **Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts**  
   *Yeskendir Koishekenov, Aldo Lipani, Nicola Cancedda*. [[pdf](https://arxiv.org/pdf/2510.07358)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ETD-blue)
+- **Unlocking Out-of-Distribution Generalization in Transformers via Recursive Latent Space Reasoning**  
+  *Awni Altabaa, Siyu Chen, John Lafferty, Zhuoran Yang*. [[pdf](https://arxiv.org/pdf/2510.14095)], [[code](https://github.com/Awni00/algorithmic-generalization-transformer-architectures)] 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) 
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
@@ -277,7 +279,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Emergence of Superposition: Unveiling the Training Dynamics of Chain of Continuous Thought**  
   *Hanlin Zhu, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2509.23365)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Hierarchical Reasoning Models: Perspectives and Misconceptions**  
-  *Renee Ge, Qianli Liao, Tomaso Poggio*. [[pdf](https://arxiv.org/pdf/2510.00355v2)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Renee Ge, Qianli Liao, Tomaso Poggio*. [[pdf](https://arxiv.org/pdf/2510.00355v2)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Interpreting the Latent Structure of Operator Precedence in Language Models**  
+  *Dharunish Yugeswardeenoo, Harshil Nukala, Cole Blondin, Sean O Brien, Vasu Sharma, Kevin Zhu*. [[pdf](http://arxiv.org/pdf/2510.13908)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Applications and Future Directions
 
