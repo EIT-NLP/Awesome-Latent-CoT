@@ -164,6 +164,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Nan Jiang, Ziming Wu, De-Chuan Zhan, Fuming Lai, Shaobing Lian*. [[pdf](https://arxiv.org/pdf/2506.11752)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DART-blue)
 - **Parallel Continuous Chain-of-Thought with Jacobi Iteration**  
   *Haoyi Wu, Zhihao Teng, Kewei Tu*. [[pdf](https://arxiv.org/pdf/2506.18582)], 2025.06. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/PCCoT-blue)
+- **LLMs are Single-threaded Reasoners: Demystifying the Working Mechanism of Soft Thinking**  
+  *Junhong Wu, Jinliang Lu, Zixuan Ren, Gangqiang Hu, Zhi Wu, Dai Dai, Hua Wu*. [[pdf](https://arxiv.org/pdf/2508.03440)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) 
 - **SynAdapt: Learning Adaptive Reasoning in Large Language Models via Synthetic Continuous Chain-of-Thought**  
   *Jianwei Wang, Ziming Wu, Fuming Lai, Shaobing Lian, Ziqian Zeng*. [[pdf](https://arxiv.org/pdf/2508.00574)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SynAdapt-blue)
 - **LTA-thinker: Latent Thought-Augmented Training Framework for Large Language Models on Complex Reasoning**  
