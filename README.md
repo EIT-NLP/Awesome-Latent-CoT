@@ -158,6 +158,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Yuchang Sun, Yanxi Chen, Yaliang Li, Bolin Ding*. [[pdf](https://arxiv.org/pdf/2505.12629)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**  
   *Xiaoqiang Wang, Suyuchen Wang, Yun Zhu, Bang Liu*. [[pdf](https://arxiv.org/pdf/2505.18962)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/System--1.5_Reasoning-blue)
+- **Text Generation Beyond Discrete Token Sampling**  
+  *Yufan Zhuang, Liyuan Liu, Chandan Singh, Jingbo Shang, Jianfeng Gao*. [[pdf](https://arxiv.org/pdf/2505.14827)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MoI-blue)
 - **Efficient Post-Training Refinement of Latent Reasoning in Large Language Models**  
   *Xinyuan Wang, Dongjie Wang, Wangyang Ying, Haoyue Bai, Nanxu Gong, Sixun Dong, Kunpeng Liu, Yanjie Fu*. [[pdf](https://arxiv.org/pdf/2506.08552)], [[code](https://anonymous.4open.science/r/Lateng-Reasoning-5C1D/README.md)], 2025.06. ![](https://img.shields.io/badge/Arxiv-orange) 
 - **DART: Distilling Autoregressive Reasoning to Silent Thought**  
@@ -192,6 +194,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Wengao Ye, Yan Liang, Lianlei Shan*. [[pdf](https://arxiv.org/pdf/2510.04182)], [[code](https://github.com/ltpo2025/LTPO)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LTPO-blue)
 - **Towards Inference-time Scaling for Continuous Space Reasoning**  
   *Minghan Wang, Thuy-Trang Vu, Ehsan Shareghi, Gholamreza Haffari*. [[pdf](https://arxiv.org/pdf/2510.12167)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Latent Reasoning in LLMs as a Vocabulary-Space Superposition**  
+  *Jingcheng Deng, Liang Pang, Zihao Wei, Shichen Xu, Zenghao Duan, Kun Xu, Yang Song, Huawei Shen, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2510.15522)], [[code](https://github.com/DJC-GO-SOLO/Latent-SFT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Latent--SFT-blue)
 
 ### Internal Mechanisms
 
