@@ -196,6 +196,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Minghan Wang, Thuy-Trang Vu, Ehsan Shareghi, Gholamreza Haffari*. [[pdf](https://arxiv.org/pdf/2510.12167)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Latent Reasoning in LLMs as a Vocabulary-Space Superposition**  
   *Jingcheng Deng, Liang Pang, Zihao Wei, Shichen Xu, Zenghao Duan, Kun Xu, Yang Song, Huawei Shen, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2510.15522)], [[code](https://github.com/DJC-GO-SOLO/Latent-SFT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Latent--SFT-blue)
+- **LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning**  
+  *Haoqiang Kang, Yizhe Zhang, Nikki Lijing Kuang, Nicklas Majamaki, Navdeep Jaitly, Yi-An Ma, Lianhui Qin*. [[pdf](https://www.arxiv.org/pdf/2510.04573)], [[code](https://github.com/mk322/LaDiR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LVR-blue)
 
 ### Internal Mechanisms
 
@@ -323,8 +325,6 @@ If you find our survey useful for your research, please consider citing the foll
   *Tan-Hanh Pham, Chris Ngo*. [[pdf](https://arxiv.org/pdf/2508.12587)], 2025.08. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/MCOUT-blue)
 - **Latent Visual Reasoning**  
   *Bangzheng Li, Ximeng Sun, Jiang Liu, Ze Wang, Jialian Wu, Xiaodong Yu, Hao Chen, Emad Barsoum, Muhao Chen, Zicheng Liu*. [[pdf](https://arxiv.org/pdf/2509.24251)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LVR-blue)
-- **LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning**  
-  *Haoqiang Kang, Yizhe Zhang, Nikki Lijing Kuang, Nicklas Majamaki, Navdeep Jaitly, Yi-An Ma, Lianhui Qin*. [[pdf](https://www.arxiv.org/pdf/2510.04573)], [[code](https://github.com/mk322/LaDiR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LVR-blue)
 - **Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space**  
   *Chao Chen, Zhixin Ma, Yongqi Li, Yupeng Hu, Yinwei Wei, Wenjie Li, Liqiang Nie*. [[pdf](https://arxiv.org/pdf/2510.12603)], [[code](https://github.com/FYYDCC/IVT-LR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LVT--LR-blue)
 
