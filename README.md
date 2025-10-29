@@ -327,6 +327,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Bangzheng Li, Ximeng Sun, Jiang Liu, Ze Wang, Jialian Wu, Xiaodong Yu, Hao Chen, Emad Barsoum, Muhao Chen, Zicheng Liu*. [[pdf](https://arxiv.org/pdf/2509.24251)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LVR-blue)
 - **Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space**  
   *Chao Chen, Zhixin Ma, Yongqi Li, Yupeng Hu, Yinwei Wei, Wenjie Li, Liqiang Nie*. [[pdf](https://arxiv.org/pdf/2510.12603)], [[code](https://github.com/FYYDCC/IVT-LR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LVT--LR-blue)
+- **Latent Chain-of-Thought for Visual Reasoning**  
+  *Guohao Sun, Hang Hua, Jian Wang, Jiebo Luo, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao*. [[pdf](https://arxiv.org/pdf/2510.23925)], [[code](https://github.com/heliossun/LaCoT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LaCoT--LR-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
