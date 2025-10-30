@@ -232,7 +232,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Unlocking Out-of-Distribution Generalization in Transformers via Recursive Latent Space Reasoning**  
   *Awni Altabaa, Siyu Chen, John Lafferty, Zhuoran Yang*. [[pdf](https://arxiv.org/pdf/2510.14095)], [[code](https://github.com/Awni00/algorithmic-generalization-transformer-architectures)] 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Scaling Latent Reasoning via Looped Language Models**  
-  *Rui-Jie Zhu, Zixuan Wang, Kai Hua, Tianyu Zhang, Ziniu Li, Haoran Que, Boyi Wei, Zixin Wen, Fan Yin, He Xing, Lu Li, Jiajun Shi, Kaijing Ma, Shanda Li, Taylor Kergan, Andrew Smith, Xingwei Qu, Mude Hui, Bohong Wu, Qiyang Min, Hongzhi Huang, Xun Zhou, Wei Ye, Jiaheng Liu, Jian Yang, Yunfeng Shi, Chenghua Lin, Enduo Zhao, Tianle Cai, Ge Zhang, Wenhao Huang, Yoshua Bengio, Jason Eshraghian*. [[pdf](https://arxiv.org/pdf/2510.25741)], [[code](https://ouro-llm.github.io/)] 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Ouro-blue) 
+  *Rui-Jie Zhu, Zixuan Wang, Kai Hua, Tianyu Zhang, Ziniu Li, Haoran Que, Boyi Wei, Zixin Wen, Fan Yin, He Xing, Lu Li, Jiajun Shi, Kaijing Ma, Shanda Li, Taylor Kergan, Andrew Smith, Xingwei Qu, Mude Hui, Bohong Wu, Qiyang Min, Hongzhi Huang, Xun Zhou, Wei Ye, Jiaheng Liu, Jian Yang, Yunfeng Shi, Chenghua Lin, Enduo Zhao, Tianle Cai, Ge Zhang, Wenhao Huang, Yoshua Bengio, Jason Eshraghian*. [[pdf](https://arxiv.org/pdf/2510.25741)], [[code](https://ouro-llm.github.io/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Ouro-blue)
+- **Parallel Loop Transformer for Efficient Test-Time Computation Scaling**  
+  *Bohong Wu, Mengzhao Chen, Xiang Luo, Shen Yan, Qifan Yu, Fan Xia, Tianqi Zhang, Hongrui Zhan, Zheng Zhong, Xun Zhou, Siyuan Qiao, Xingyan Bin*. [[pdf](https://arxiv.org/pdf/2510.24824)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PLT-blue) 
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
