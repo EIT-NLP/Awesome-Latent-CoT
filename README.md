@@ -24,7 +24,7 @@
 <sup>2</sup>Ningbo Digital Twin Institute, Eastern Institute of Technology, Ningbo, China
 </div>
 
-![Intro](./assets/Intro.png)
+![Intro](./assets/Intro.pdf)
 
 This repository contains a regularly updated paper list for **Latent CoT Reasoning**.
 
@@ -198,6 +198,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Jingcheng Deng, Liang Pang, Zihao Wei, Shichen Xu, Zenghao Duan, Kun Xu, Yang Song, Huawei Shen, Xueqi Cheng*. [[pdf](https://arxiv.org/pdf/2510.15522)], [[code](https://github.com/DJC-GO-SOLO/Latent-SFT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Latent--SFT-blue)
 - **LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning**  
   *Haoqiang Kang, Yizhe Zhang, Nikki Lijing Kuang, Nicklas Majamaki, Navdeep Jaitly, Yi-An Ma, Lianhui Qin*. [[pdf](https://www.arxiv.org/pdf/2510.04573)], [[code](https://github.com/mk322/LaDiR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LVR-blue)
+- **SemCoT: Accelerating Chain-of-Thought Reasoning through Semantically-Aligned Implicit Tokens**  
+  *Yinhan He, Wendy Zheng, Yaochen Zhu, Zaiyi Zheng, Lin Su, Sriram Vasudevan, Qi Guo, Liangjie Hong, Jundong Li*. [[pdf](https://arxiv.org/pdf/2510.24940)], [[code](https://github.com/YinhanHe123/SemCoT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SemCoT-blue)
 
 ### Internal Mechanisms
 
@@ -228,7 +230,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts**  
   *Yeskendir Koishekenov, Aldo Lipani, Nicola Cancedda*. [[pdf](https://arxiv.org/pdf/2510.07358)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ETD-blue)
 - **Unlocking Out-of-Distribution Generalization in Transformers via Recursive Latent Space Reasoning**  
-  *Awni Altabaa, Siyu Chen, John Lafferty, Zhuoran Yang*. [[pdf](https://arxiv.org/pdf/2510.14095)], [[code](https://github.com/Awni00/algorithmic-generalization-transformer-architectures)] 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Awni Altabaa, Siyu Chen, John Lafferty, Zhuoran Yang*. [[pdf](https://arxiv.org/pdf/2510.14095)], [[code](https://github.com/Awni00/algorithmic-generalization-transformer-architectures)] 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Scaling Latent Reasoning via Looped Language Models**  
+  *Rui-Jie Zhu, Zixuan Wang, Kai Hua, Tianyu Zhang, Ziniu Li, Haoran Que, Boyi Wei, Zixin Wen, Fan Yin, He Xing, Lu Li, Jiajun Shi, Kaijing Ma, Shanda Li, Taylor Kergan, Andrew Smith, Xingwei Qu, Mude Hui, Bohong Wu, Qiyang Min, Hongzhi Huang, Xun Zhou, Wei Ye, Jiaheng Liu, Jian Yang, Yunfeng Shi, Chenghua Lin, Enduo Zhao, Tianle Cai, Ge Zhang, Wenhao Huang, Yoshua Bengio, Jason Eshraghian*. [[pdf](https://arxiv.org/pdf/2510.25741)], [[code](https://ouro-llm.github.io/)] 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Ouro-blue) 
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
