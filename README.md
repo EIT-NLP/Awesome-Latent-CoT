@@ -24,7 +24,7 @@
 <sup>2</sup>Ningbo Digital Twin Institute, Eastern Institute of Technology, Ningbo, China
 </div>
 
-![Intro](./assets/Intro.pdf)
+![Intro](./assets/Intro.jpg)
 
 This repository contains a regularly updated paper list for **Latent CoT Reasoning**.
 
