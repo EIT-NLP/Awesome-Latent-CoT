@@ -131,7 +131,7 @@ If you find our survey useful for your research, please consider citing the foll
 #### Continuous Tokens 
 
 - **Training Large Language Models to Reason in a Continuous Latent Space**  
-  *Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2412.06769)], [[code](https://github.com/facebookresearch/coconut)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Coconut-blue)
+  *Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2412.06769)], [[code](https://github.com/facebookresearch/coconut)], 2024.12. ![](https://img.shields.io/badge/COLM2025-orange) ![](https://img.shields.io/badge/Coconut-blue)
 - **Compressed Chain of Thought: Efficient Reasoning Through Dense Representations**  
   *Jeffrey Cheng, Benjamin Van Durme*. [[pdf](https://arxiv.org/pdf/2412.13171)], 2024.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CCoT-blue) ![](https://img.shields.io/badge/Compressed_representations-lightgray)
 - **Expediting and Elevating Large Language Model Reasoning via Hidden Chain-of-Thought Decoding**  
@@ -235,6 +235,9 @@ If you find our survey useful for your research, please consider citing the foll
   *Rui-Jie Zhu, Zixuan Wang, Kai Hua, Tianyu Zhang, Ziniu Li, Haoran Que, Boyi Wei, Zixin Wen, Fan Yin, He Xing, Lu Li, Jiajun Shi, Kaijing Ma, Shanda Li, Taylor Kergan, Andrew Smith, Xingwei Qu, Mude Hui, Bohong Wu, Qiyang Min, Hongzhi Huang, Xun Zhou, Wei Ye, Jiaheng Liu, Jian Yang, Yunfeng Shi, Chenghua Lin, Enduo Zhao, Tianle Cai, Ge Zhang, Wenhao Huang, Yoshua Bengio, Jason Eshraghian*. [[pdf](https://arxiv.org/pdf/2510.25741)], [[code](https://ouro-llm.github.io/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Ouro-blue)
 - **Parallel Loop Transformer for Efficient Test-Time Computation Scaling**  
   *Bohong Wu, Mengzhao Chen, Xiang Luo, Shen Yan, Qifan Yu, Fan Xia, Tianqi Zhang, Hongrui Zhan, Zheng Zhong, Xun Zhou, Siyuan Qiao, Xingyan Bin*. [[pdf](https://arxiv.org/pdf/2510.24824)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PLT-blue) 
+- **LSRL: Process-Supervised GRPO on Latent Recurrent States Improves Mathematical Reasoning**  
+  *Hangliang Ren*. [[pdf](https://aclanthology.org/2025.findings-emnlp.669.pdf)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/LSRL-blue) 
+
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
@@ -284,6 +287,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Halil Alperen Gozeten, M. Emrullah Ildiz, Xuechen Zhang, Hrayr Harutyunyan, Ankit Singh Rawat, Samet Oymak*. [[pdf](https://www.arxiv.org/pdf/2505.23648)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoT2-blue)
 - **Do Language Models Use Their Depth Efficiently?**  
   *Róbert Csordás, Christopher D. Manning, Christopher Potts*. [[pdf](https://arxiv.org/pdf/2505.13898)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Language models can learn implicit multi-hop reasoning, but only if they have lots of training data**  
+  *Yuekun Yao, Yupei Du, Dawei Zhu, Michael Hahn, Alexander Koller*. [[pdf](https://arxiv.org/pdf/2505.17923)], 2025.05. ![](https://img.shields.io/badge/EMNLP2025-orange)
 - **Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer**  
   *Wenquan Lu, Yuechuan Yang, Kyle Lee, Yanshu Li, Enqi Liu*. [[pdf](https://arxiv.org/pdf/2507.02199)], 2025.07. ![](https://img.shields.io/badge/Arxiv-orange)
 - **LLMs Have a Heart of Stone: Demystifying the Soft Thinking Ability of Large Reasoning Models**  
@@ -337,6 +342,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Guohao Sun, Hang Hua, Jian Wang, Jiebo Luo, Sohail Dianat, Majid Rabbani, Raghuveer Rao, Zhiqiang Tao*. [[pdf](https://arxiv.org/pdf/2510.23925)], [[code](https://github.com/heliossun/LaCoT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LaCoT--LR-blue)
 - **Latent Sketchpad : Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs**  
   *Huanyu Zhang, Wenshan Wu, Chengzu Li, Ning Shang, Yan Xia, Yangyu Huang, Yifan Zhang, Li Dong, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei*. [[pdf](https://arxiv.org/pdf/2510.24514)], [[code](https://latent-sketchpad.github.io/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Latent Sketchpad-blue)
+- **CoCoVa: Chain of Continuous Vision-Language Thought for Latent Space Reasoning**  
+  *Jizheng Ma, Xiaofei Zhou, Yanlong Song, Han Yan*. [[pdf](https://arxiv.org/pdf/2511.02360)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoCoVa-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
