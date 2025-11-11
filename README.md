@@ -200,6 +200,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Haoqiang Kang, Yizhe Zhang, Nikki Lijing Kuang, Nicklas Majamaki, Navdeep Jaitly, Yi-An Ma, Lianhui Qin*. [[pdf](https://www.arxiv.org/pdf/2510.04573)], [[code](https://github.com/mk322/LaDiR)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LVR-blue)
 - **SemCoT: Accelerating Chain-of-Thought Reasoning through Semantically-Aligned Implicit Tokens**  
   *Yinhan He, Wendy Zheng, Yaochen Zhu, Zaiyi Zheng, Lin Su, Sriram Vasudevan, Qi Guo, Liangjie Hong, Jundong Li*. [[pdf](https://arxiv.org/pdf/2510.24940)], [[code](https://github.com/YinhanHe123/SemCoT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SemCoT-blue)
+- **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**  
+  *Zhi Zheng, Wee Sun Lee*. [[pdf](https://arxiv.org/pdf/2511.06411)], [[code](https://github.com/zz1358m/SofT-GRPO-master)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SofT--GRPO-blue)
 
 ### Internal Mechanisms
 
