@@ -202,6 +202,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Yinhan He, Wendy Zheng, Yaochen Zhu, Zaiyi Zheng, Lin Su, Sriram Vasudevan, Qi Guo, Liangjie Hong, Jundong Li*. [[pdf](https://arxiv.org/pdf/2510.24940)], [[code](https://github.com/YinhanHe123/SemCoT)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SemCoT-blue)
 - **SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization**  
   *Zhi Zheng, Wee Sun Lee*. [[pdf](https://arxiv.org/pdf/2511.06411)], [[code](https://github.com/zz1358m/SofT-GRPO-master)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SofT--GRPO-blue)
+- **Think Consistently, Reason Efficiently: Energy-Based Calibration for Implicit Chain-of-Thought**  
+  *Zhikang Chen, Sen Cui, Deheng Ye, Yu Zhang, Yatao Bian, Tingting Zhu*. [[pdf](https://arxiv.org/pdf/2511.07124)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/EBM--CoT-blue)
 
 ### Internal Mechanisms
 
@@ -239,6 +241,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Bohong Wu, Mengzhao Chen, Xiang Luo, Shen Yan, Qifan Yu, Fan Xia, Tianqi Zhang, Hongrui Zhan, Zheng Zhong, Xun Zhou, Siyuan Qiao, Xingyan Bin*. [[pdf](https://arxiv.org/pdf/2510.24824)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PLT-blue) 
 - **LSRL: Process-Supervised GRPO on Latent Recurrent States Improves Mathematical Reasoning**  
   *Hangliang Ren*. [[pdf](https://aclanthology.org/2025.findings-emnlp.669.pdf)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/LSRL-blue) 
+- **Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence**  
+  *Sean McLeish, Ang Li, John Kirchenbauer, Dayal Singh Kalra, Brian R. Bartoldson, Bhavya Kailkhura, Avi Schwarzschild, Jonas Geiping, Tom Goldstein, Micah Goldblum*. [[pdf](hhttps://arxiv.org/pdf/2511.07384)], [[code](https://github.com/mcleish7/retrofitting-recurrence)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 #### Representational CoT
 
