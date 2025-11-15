@@ -204,6 +204,10 @@ If you find our survey useful for your research, please consider citing the foll
   *Zhi Zheng, Wee Sun Lee*. [[pdf](https://arxiv.org/pdf/2511.06411)], [[code](https://github.com/zz1358m/SofT-GRPO-master)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SofT--GRPO-blue)
 - **Think Consistently, Reason Efficiently: Energy-Based Calibration for Implicit Chain-of-Thought**  
   *Zhikang Chen, Sen Cui, Deheng Ye, Yu Zhang, Yatao Bian, Tingting Zhu*. [[pdf](https://arxiv.org/pdf/2511.07124)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/EBM--CoT-blue)
+- **SpiralThinker: Latent Reasoning through an Iterative Process with Text-Latent Interleaving**  
+  *Shengmin Piao, Sanghyun Park*. [[pdf](https://arxiv.org/pdf/2511.08983)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SpiralThinker-blue)
+- **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**  
+  *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/pdf/2511.08577)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/TaH-blue)
 
 ### Internal Mechanisms
 
@@ -242,7 +246,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **LSRL: Process-Supervised GRPO on Latent Recurrent States Improves Mathematical Reasoning**  
   *Hangliang Ren*. [[pdf](https://aclanthology.org/2025.findings-emnlp.669.pdf)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/LSRL-blue) 
 - **Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence**  
-  *Sean McLeish, Ang Li, John Kirchenbauer, Dayal Singh Kalra, Brian R. Bartoldson, Bhavya Kailkhura, Avi Schwarzschild, Jonas Geiping, Tom Goldstein, Micah Goldblum*. [[pdf](hhttps://arxiv.org/pdf/2511.07384)], [[code](https://github.com/mcleish7/retrofitting-recurrence)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Sean McLeish, Ang Li, John Kirchenbauer, Dayal Singh Kalra, Brian R. Bartoldson, Bhavya Kailkhura, Avi Schwarzschild, Jonas Geiping, Tom Goldstein, Micah Goldblum*. [[pdf](https://arxiv.org/pdf/2511.07384)], [[code](https://github.com/mcleish7/retrofitting-recurrence)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Accelerating Training Speed of Tiny Recursive Models via Curriculum Guided Adaptive Recursion**  
+  *Kaleem Ullah Qasim, Jiashu Zhang*. [[pdf](https://arxiv.org/pdf/2511.08653)], [[code](https://github.com/mcleish7/retrofitting-recurrence)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CGAR-blue) 
 
 #### Representational CoT
 
@@ -350,6 +356,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Huanyu Zhang, Wenshan Wu, Chengzu Li, Ning Shang, Yan Xia, Yangyu Huang, Yifan Zhang, Li Dong, Zhang Zhang, Liang Wang, Tieniu Tan, Furu Wei*. [[pdf](https://arxiv.org/pdf/2510.24514)], [[code](https://latent-sketchpad.github.io/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Latent Sketchpad-blue)
 - **CoCoVa: Chain of Continuous Vision-Language Thought for Latent Space Reasoning**  
   *Jizheng Ma, Xiaofei Zhou, Yanlong Song, Han Yan*. [[pdf](https://arxiv.org/pdf/2511.02360)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoCoVa-blue)
+- **Enabling Agents to Communicate Entirely in Latent Space**  
+  *Zhuoyun Du, Runze Wang, Huiyu Bai, Zouying Cao, Xiaoyong Zhu, Bo Zheng, Wei Chen, Haochao Ying*. [[pdf](https://arxiv.org/pdf/2511.09149)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Interlat-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
