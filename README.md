@@ -208,6 +208,10 @@ If you find our survey useful for your research, please consider citing the foll
   *Shengmin Piao, Sanghyun Park*. [[pdf](https://arxiv.org/pdf/2511.08983)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SpiralThinker-blue)
 - **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**  
   *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/pdf/2511.08577)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/TaH-blue)
+- **Improving Latent Reasoning in LLMs via Soft Concept Mixing**  
+  *Kang Wang, Xiangyu Duan, Tianyi Du*. [[pdf](https://arxiv.org/pdf/2511.16885)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SCM-blue)
+- **Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning**  
+  *Alex Ning, Yen-Ling Kuo, Gabe Gomes*. [[pdf](https://arxiv.org/abs/2511.21581)], [[code](https://github.com/apning/adaptive-latent-reasoning)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SCM-blue)
 
 ### Internal Mechanisms
 
@@ -249,6 +253,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Sean McLeish, Ang Li, John Kirchenbauer, Dayal Singh Kalra, Brian R. Bartoldson, Bhavya Kailkhura, Avi Schwarzschild, Jonas Geiping, Tom Goldstein, Micah Goldblum*. [[pdf](https://arxiv.org/pdf/2511.07384)], [[code](https://github.com/mcleish7/retrofitting-recurrence)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Accelerating Training Speed of Tiny Recursive Models via Curriculum Guided Adaptive Recursion**  
   *Kaleem Ullah Qasim, Jiashu Zhang*. [[pdf](https://arxiv.org/pdf/2511.08653)], [[code](https://github.com/mcleish7/retrofitting-recurrence)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CGAR-blue) 
+- **Deep Improvement Supervision**  
+  *Arip Asadulaev, Rayan Banerjee, Fakhri Karray, Martin Takac*. [[pdf](https://arxiv.org/pdf/2511.16886)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 #### Representational CoT
 
@@ -358,6 +364,12 @@ If you find our survey useful for your research, please consider citing the foll
   *Jizheng Ma, Xiaofei Zhou, Yanlong Song, Han Yan*. [[pdf](https://arxiv.org/pdf/2511.02360)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoCoVa-blue)
 - **Enabling Agents to Communicate Entirely in Latent Space**  
   *Zhuoyun Du, Runze Wang, Huiyu Bai, Zouying Cao, Xiaoyong Zhu, Bo Zheng, Wei Chen, Haochao Ying*. [[pdf](https://arxiv.org/pdf/2511.09149)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Interlat-blue)
+- **Monet: Reasoning in Latent Visual Space Beyond Images and Language**  
+  *Qixun Wang, Yang Shi, Yifei Wang, Yuanxing Zhang, Pengfei Wan, Kun Gai, Xianghua Ying, Yisen Wang*. [[pdf](https://arxiv.org/pdf/2511.21395)], [[code](https://github.com/NOVAglow646/Monet)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Monet-blue)
+- **Latent Collaboration in Multi-Agent Systems**  
+  *Jiaru Zou, Xiyuan Yang, Ruizhong Qiu, Gaotang Li, Katherine Tieu, Pan Lu, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang*. [[pdf](https://arxiv.org/pdf/2511.21395)], [[code](https://github.com/Gen-Verse/LatentMAS)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LatentMAS-blue)
+- **Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens**  
+  *Yiming Qin, Bomin Wei, Jiaxin Ge, Konstantinos Kallidromitis, Stephanie Fu, Trevor Darrell, Xudong Wang*. [[pdf](https://arxiv.org/pdf/2511.19418)], [[code](https://wakalsprojectpage.github.io/comt-website/)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/CoVT-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
