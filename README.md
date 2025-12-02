@@ -207,7 +207,7 @@ If you find our survey useful for your research, please consider citing the foll
 - **SpiralThinker: Latent Reasoning through an Iterative Process with Text-Latent Interleaving**  
   *Shengmin Piao, Sanghyun Park*. [[pdf](https://arxiv.org/pdf/2511.08983)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SpiralThinker-blue)
 - **Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models**  
-  *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/pdf/2511.08577)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/TaH-blue)
+  *Tianyu Fu, Yichen You, Zekai Chen, Guohao Dai, Huazhong Yang, Yu Wang*. [[pdf](https://arxiv.org/pdf/2511.08577)], [[code](https://github.com/thu-nics/TaH)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/TaH-blue)
 - **Improving Latent Reasoning in LLMs via Soft Concept Mixing**  
   *Kang Wang, Xiangyu Duan, Tianyi Du*. [[pdf](https://arxiv.org/pdf/2511.16885)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SCM-blue)
 - **Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning**  
