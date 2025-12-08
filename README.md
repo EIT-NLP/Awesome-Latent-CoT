@@ -211,7 +211,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Improving Latent Reasoning in LLMs via Soft Concept Mixing**  
   *Kang Wang, Xiangyu Duan, Tianyi Du*. [[pdf](https://arxiv.org/pdf/2511.16885)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SCM-blue)
 - **Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning**  
-  *Alex Ning, Yen-Ling Kuo, Gabe Gomes*. [[pdf](https://arxiv.org/abs/2511.21581)], [[code](https://github.com/apning/adaptive-latent-reasoning)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SCM-blue)
+  *Alex Ning, Yen-Ling Kuo, Gabe Gomes*. [[pdf](https://arxiv.org/abs/2511.21581)], [[code](https://github.com/apning/adaptive-latent-reasoning)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Lightweight Latent Reasoning for Narrative Tasks**  
+  *Alexander Gurung, Nikolay Malkin, Mirella Lapata*. [[pdf](https://arxiv.org/pdf/2512.02240)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LiteReason-blue)
 
 ### Internal Mechanisms
 
