@@ -188,6 +188,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Guibin Zhang, Fanci Meng, Guancheng Wan, Zherui Li, Kun Wang, Zhenfei Yin, Lei Bai, Shuicheng Yan*. [[pdf](https://arxiv.org/pdf/2509.24771)], [[code](https://github.com/jins7/LatentEvolve)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentEvolve-blue)
 - **SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs**  
   *Dachuan Shi, Abedelkadir Asi, Keying Li, Xiangchi Yuan, Leyan Pan, Wenke Lee, Wen Xiao*. [[pdf](https://arxiv.org/pdf/2510.05069)], [[code](https://github.com/sdc17/SwiReasoning)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SwiReasoning-blue)
+- **KaVa: Latent Reasoning via Compressed KV-Cache Distillation**  
+  *Anna Kuzina, Maciej Pioro, Paul N. Whatmough, Babak Ehteshami Bejnordi*. [[pdf](https://arxiv.org/pdf/2510.02312)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/KaVa-blue)
 - **Parallel Test-Time Scaling for Latent Reasoning Models**  
   *Runyang You, Yongqi Li, Meng Liu, Wenjie Wang, Liqiang Nie, Wenjie Li*. [[pdf](https://arxiv.org/pdf/2510.07745)], [[code](https://github.com/YRYangang/LatentTTS)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentRM-blue)
 - **Thinking on the Fly: Test-Time Reasoning Enhancement via Latent Thought Policy Optimization**  
