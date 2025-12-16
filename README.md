@@ -216,6 +216,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Alex Ning, Yen-Ling Kuo, Gabe Gomes*. [[pdf](https://arxiv.org/abs/2511.21581)], [[code](https://github.com/apning/adaptive-latent-reasoning)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Lightweight Latent Reasoning for Narrative Tasks**  
   *Alexander Gurung, Nikolay Malkin, Mirella Lapata*. [[pdf](https://arxiv.org/pdf/2512.02240)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LiteReason-blue)
+- **Reinforcement Learning for Latent-Space Thinking in LLMs**  
+  *Enes Özeren, Matthias Aßenmacher*. [[pdf](https://arxiv.org/pdf/2512.11816)], [[code](https://github.com/enesozeren/latent-space-thinking-model)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Internal Mechanisms
 
@@ -250,7 +252,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Scaling Latent Reasoning via Looped Language Models**  
   *Rui-Jie Zhu, Zixuan Wang, Kai Hua, Tianyu Zhang, Ziniu Li, Haoran Que, Boyi Wei, Zixin Wen, Fan Yin, He Xing, Lu Li, Jiajun Shi, Kaijing Ma, Shanda Li, Taylor Kergan, Andrew Smith, Xingwei Qu, Mude Hui, Bohong Wu, Qiyang Min, Hongzhi Huang, Xun Zhou, Wei Ye, Jiaheng Liu, Jian Yang, Yunfeng Shi, Chenghua Lin, Enduo Zhao, Tianle Cai, Ge Zhang, Wenhao Huang, Yoshua Bengio, Jason Eshraghian*. [[pdf](https://arxiv.org/pdf/2510.25741)], [[code](https://ouro-llm.github.io/)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Ouro-blue)
 - **Parallel Loop Transformer for Efficient Test-Time Computation Scaling**  
-  *Bohong Wu, Mengzhao Chen, Xiang Luo, Shen Yan, Qifan Yu, Fan Xia, Tianqi Zhang, Hongrui Zhan, Zheng Zhong, Xun Zhou, Siyuan Qiao, Xingyan Bin*. [[pdf](https://arxiv.org/pdf/2510.24824)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PLT-blue) 
+  *Bohong Wu, Mengzhao Chen, Xiang Luo, Shen Yan, Qifan Yu, Fan Xia, Tianqi Zhang, Hongrui Zhan, Zheng Zhong, Xun Zhou, Siyuan Qiao, Xingyan Bin*. [[pdf](https://arxiv.org/pdf/2510.24824)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PLT-blue)
+- **MeSH: Memory-as-State-Highways for Recursive Transformers**  
+  *Chengting Yu, Xiaobo Shu, Yadao Wang, Yizhen Zhang, Haoyi Wu, Jiaang Li, Rujiao Long, Ziheng Chen, Yuchi Xu, Wenbo Su, Bo Zheng*. [[pdf](https://arxiv.org/pdf/2510.07739)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/MeSH-blue) 
 - **LSRL: Process-Supervised GRPO on Latent Recurrent States Improves Mathematical Reasoning**  
   *Hangliang Ren*. [[pdf](https://aclanthology.org/2025.findings-emnlp.669.pdf)], 2025.11. ![](https://img.shields.io/badge/EMNLP2025-orange) ![](https://img.shields.io/badge/LSRL-blue) 
 - **Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence**  
@@ -374,8 +378,16 @@ If you find our survey useful for your research, please consider citing the foll
   *Jiaru Zou, Xiyuan Yang, Ruizhong Qiu, Gaotang Li, Katherine Tieu, Pan Lu, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang*. [[pdf](https://arxiv.org/pdf/2511.21395)], [[code](https://github.com/Gen-Verse/LatentMAS)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LatentMAS-blue)
 - **Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens**  
   *Yiming Qin, Bomin Wei, Jiaxin Ge, Konstantinos Kallidromitis, Stephanie Fu, Trevor Darrell, Xudong Wang*. [[pdf](https://arxiv.org/pdf/2511.19418)], [[code](https://wakalsprojectpage.github.io/comt-website/)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/CoVT-blue)
+- **VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models**  
+  *Xinlei Yu, Chengming Xu, Guibin Zhang, Zhangquan Chen, Yudong Zhang, Yongbo He, Peng-Tao Jiang, Jiangning Zhang, Xiaobin Hu, Shuicheng Yan*. [[pdf](https://arxiv.org/pdf/2511.11007)], [[code](https://github.com/YU-deep/VisMem)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/VisMem-blue)
 - **Latent Chain-of-Thought World Modeling for End-to-End Driving**  
   *Shuhan Tan, Kashyap Chitta, Yuxiao Chen, Ran Tian, Yurong You, Yan Wang, Wenjie Luo, Yulong Cao, Philipp Krahenbuhl, Marco Pavone, Boris Ivanovic*. [[pdf](https://arxiv.org/pdf/2512.10226)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LCDrive-blue)
+- **Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space**  
+  *Chengzhi Liu, Yuzhe Yang, Yue Fan, Qingyue Wei, Sheng Liu, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2512.12623)], [[code](https://mllm-dmlr.github.io/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/DMLR-blue)
+- **Interleaved Latent Visual Reasoning with Selective Perceptual Modeling**  
+  *Shuai Dong, Siyuan Wang, Xingyu Liu, Zhongyu Wei*. [[pdf](https://arxiv.org/pdf/2512.05665)], [[code](https://github.com/XD111ds/ILVR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/ICVR-blue)
+- **Mull-Tokens: Modality-Agnostic Latent Thinking**  
+  *Arijit Ray, Ahmed Abdelkader, Chengzhi Mao, Bryan A. Plummer, Kate Saenko, Ranjay Krishna, Leonidas Guibas, Wen-Sheng Chu*. [[pdf](https://arxiv.org/pdf/2512.10941)], [[code](http://arijitray.com/multimodal_thinking/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Mull_Tokens-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
