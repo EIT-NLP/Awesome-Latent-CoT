@@ -263,6 +263,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Kaleem Ullah Qasim, Jiashu Zhang*. [[pdf](https://arxiv.org/pdf/2511.08653)], [[code](https://github.com/mcleish7/retrofitting-recurrence)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CGAR-blue) 
 - **Deep Improvement Supervision**  
   *Arip Asadulaev, Rayan Banerjee, Fakhri Karray, Martin Takac*. [[pdf](https://arxiv.org/pdf/2511.16886)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) 
+- **Universal Reasoning Model**  
+  *Zitian Gao, Lynx Chen, Yihao Xiao, He Xing, Ran Tao, Haoming Luo, Joey Zhou, Bryan Dai*. [[pdf](https://arxiv.org/pdf/2512.14693)], [[code](https://github.com/zitian-gao/URM)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/URM-blue) 
 
 #### Representational CoT
 
