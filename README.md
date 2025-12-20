@@ -390,6 +390,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Shuai Dong, Siyuan Wang, Xingyu Liu, Zhongyu Wei*. [[pdf](https://arxiv.org/pdf/2512.05665)], [[code](https://github.com/XD111ds/ILVR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/ICVR-blue)
 - **Mull-Tokens: Modality-Agnostic Latent Thinking**  
   *Arijit Ray, Ahmed Abdelkader, Chengzhi Mao, Bryan A. Plummer, Kate Saenko, Ranjay Krishna, Leonidas Guibas, Wen-Sheng Chu*. [[pdf](https://arxiv.org/pdf/2512.10941)], [[code](http://arijitray.com/multimodal_thinking/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Mull_Tokens-blue)
+- **VL-JEPA: Joint Embedding Predictive Architecture for Vision-language**  
+  *Delong Chen, Mustafa Shukor, Theo Moutakanni, Willy Chung, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung*. [[pdf](https://arxiv.org/pdf/2512.10942)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/VL--JEPA-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
