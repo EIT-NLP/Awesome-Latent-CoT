@@ -392,6 +392,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Arijit Ray, Ahmed Abdelkader, Chengzhi Mao, Bryan A. Plummer, Kate Saenko, Ranjay Krishna, Leonidas Guibas, Wen-Sheng Chu*. [[pdf](https://arxiv.org/pdf/2512.10941)], [[code](http://arijitray.com/multimodal_thinking/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Mull_Tokens-blue)
 - **VL-JEPA: Joint Embedding Predictive Architecture for Vision-language**  
   *Delong Chen, Mustafa Shukor, Theo Moutakanni, Willy Chung, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung*. [[pdf](https://arxiv.org/pdf/2512.10942)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/VL--JEPA-blue)
+- **Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs**  
+  *Jintao Tong, Jiaqi Gu, Yujing Lou, Lubin Fan, Yixiong Zou, Yue Wu, Jieping Ye, Ruixuan Li*. [[pdf](https://arxiv.org/pdf/2512.16584)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SkiLa-blue)
 
 ## Resources
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
