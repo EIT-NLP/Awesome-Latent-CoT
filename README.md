@@ -327,6 +327,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Hanlin Zhu, Shibo Hao, Zhiting Hu, Jiantao Jiao, Stuart Russell, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2509.23365)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Hierarchical Reasoning Models: Perspectives and Misconceptions**  
   *Renee Ge, Qianli Liao, Tomaso Poggio*. [[pdf](https://arxiv.org/pdf/2510.00355v2)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Scratchpad Thinking: Alternation Between Storage and Computation in Latent Reasoning Models**  
+  *Sayam Goyal, Brad Peters, María Emilia Granda, Akshath Vijayakumar Narmadha, Dharunish Yugeswardeenoo, Callum Stuart McDougall, Sean O'Brien, Ashwinee Panda, Kevin Zhu, Cole Blondin*. [[pdf](https://openreview.net/pdf?id=EV30qkZXrR)], [[code](https://github.com/sayam-goyal/Scratchpad-Thinking)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Interpreting the Latent Structure of Operator Precedence in Language Models**  
   *Dharunish Yugeswardeenoo, Harshil Nukala, Cole Blondin, Sean O Brien, Vasu Sharma, Kevin Zhu*. [[pdf](http://arxiv.org/pdf/2510.13908)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) 
 
