@@ -330,7 +330,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Scratchpad Thinking: Alternation Between Storage and Computation in Latent Reasoning Models**  
   *Sayam Goyal, Brad Peters, María Emilia Granda, Akshath Vijayakumar Narmadha, Dharunish Yugeswardeenoo, Callum Stuart McDougall, Sean O'Brien, Ashwinee Panda, Kevin Zhu, Cole Blondin*. [[pdf](https://openreview.net/pdf?id=EV30qkZXrR)], [[code](https://github.com/sayam-goyal/Scratchpad-Thinking)], 2025.09. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Interpreting the Latent Structure of Operator Precedence in Language Models**  
-  *Dharunish Yugeswardeenoo, Harshil Nukala, Cole Blondin, Sean O Brien, Vasu Sharma, Kevin Zhu*. [[pdf](http://arxiv.org/pdf/2510.13908)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange) 
+  *Dharunish Yugeswardeenoo, Harshil Nukala, Cole Blondin, Sean O Brien, Vasu Sharma, Kevin Zhu*. [[pdf](http://arxiv.org/pdf/2510.13908)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Do Latent Tokens Think? A Causal and Adversarial Analysis of Chain-of-Continuous-Thought**  
+  *Yuyi Zhang, Boyu Tang, Tianjie Ju, Sufeng Duan, Gongshen Liu*. [[pdf](https://www.arxiv.org/pdf/2512.21711)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) 
 
 ### Applications and Future Directions
 
