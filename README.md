@@ -218,6 +218,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Alexander Gurung, Nikolay Malkin, Mirella Lapata*. [[pdf](https://arxiv.org/pdf/2512.02240)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LiteReason-blue)
 - **Reinforcement Learning for Latent-Space Thinking in LLMs**  
   *Enes Özeren, Matthias Aßenmacher*. [[pdf](https://arxiv.org/pdf/2512.11816)], [[code](https://github.com/enesozeren/latent-space-thinking-model)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
+- **JEPA-Reasoner: Decoupling Latent Reasoning from Token Generation**  
+  *Bingyang Kelvin Liu, Ziyu Patrick Chen, David P. Woodruff*. [[pdf](https://arxiv.org/pdf/2512.19171)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/JEPA--Reasoner-blue)
 
 ### Internal Mechanisms
 
