@@ -220,6 +220,10 @@ If you find our survey useful for your research, please consider citing the foll
   *Enes Özeren, Matthias Aßenmacher*. [[pdf](https://arxiv.org/pdf/2512.11816)], [[code](https://github.com/enesozeren/latent-space-thinking-model)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
 - **JEPA-Reasoner: Decoupling Latent Reasoning from Token Generation**  
   *Bingyang Kelvin Liu, Ziyu Patrick Chen, David P. Woodruff*. [[pdf](https://arxiv.org/pdf/2512.19171)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/JEPA--Reasoner-blue)
+- **Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space**  
+  *Xingwei Qu, Shaowen Wang, Zihao Huang, Kai Hua, Fan Yin, Rui-Jie Zhu, Jundong Zhou, Qiyang Min, Zihao Wang, Yizhi Li, Tianyu Zhang, He Xing, Zheng Zhang, Yuxuan Song, Tianyu Zheng, Zhiyuan Zeng, Chenghua Lin, Ge Zhang, Wenhao Huang*. [[pdf](https://arxiv.org/pdf/2512.24617)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DLCM-blue)
+- **iCLP: Large Language Model Reasoning with Implicit Cognition Latent Planning**  
+  *Sijia Chen, Di Niu*. [[pdf](https://www.arxiv.org/pdf/2512.24014)], [[code](https://github.com/AgenticFinLab/latent-planning)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/iCLP-blue)
 
 ### Internal Mechanisms
 
@@ -266,7 +270,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Deep Improvement Supervision**  
   *Arip Asadulaev, Rayan Banerjee, Fakhri Karray, Martin Takac*. [[pdf](https://arxiv.org/pdf/2511.16886)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) 
 - **Universal Reasoning Model**  
-  *Zitian Gao, Lynx Chen, Yihao Xiao, He Xing, Ran Tao, Haoming Luo, Joey Zhou, Bryan Dai*. [[pdf](https://arxiv.org/pdf/2512.14693)], [[code](https://github.com/zitian-gao/URM)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/URM-blue) 
+  *Zitian Gao, Lynx Chen, Yihao Xiao, He Xing, Ran Tao, Haoming Luo, Joey Zhou, Bryan Dai*. [[pdf](https://arxiv.org/pdf/2512.14693)], [[code](https://github.com/zitian-gao/URM)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/URM-blue)
+- **Recursive Language Models**  
+  *Alex L. Zhang, Tim Kraska, Omar Khattab*. [[pdf](https://arxiv.org/pdf/2512.24601v1)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RLMs-blue) 
 
 #### Representational CoT
 
