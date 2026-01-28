@@ -153,7 +153,7 @@ If you find our survey useful for your research, please consider citing the foll
 - **Hybrid Latent Reasoning via Reinforcement Learning**  
   *Zhenrui Yue, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang*. [[pdf](https://arxiv.org/pdf/2505.18454)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HRPO-blue) ![](https://img.shields.io/badge/RL-lightgray)
 - **Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space**  
-  *Zhenrui Yue, Bowen Jin, Huimin Zeng, Honglei Zhuang, Zhen Qin, Jinsung Yoon, Lanyu Shang, Jiawei Han, Dong Wang*. [[pdf](https://arxiv.org/pdf/2505.13308)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LATENTSEEK-blue) ![](https://img.shields.io/badge/RL-lightgray)
+  *Hengli Li, Chenxi Li, Tong Wu, Xuekai Zhu, Yuxuan Wang, Zhaoxin Yu, Eric Hanchen Jiang, Song-Chun Zhu, Zixia Jia, Ying Nian Wu, Zilong Zheng*. [[pdf](https://arxiv.org/pdf/2505.13308)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LATENTSEEK-blue) ![](https://img.shields.io/badge/RL-lightgray)
 - **Enhancing Latent Computation in Transformers with Latent Tokens**  
   *Yuchang Sun, Yanxi Chen, Yaliang Li, Bolin Ding*. [[pdf](https://arxiv.org/pdf/2505.12629)], [[code](https://github.com/Yueeeeeeee/HRPO)], 2025.05. ![](https://img.shields.io/badge/Arxiv-orange)
 - **System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts**  
