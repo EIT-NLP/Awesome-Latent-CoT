@@ -234,6 +234,8 @@ If you find our survey useful for your research, please consider citing the foll
   *Yifan Wang, Shiyu Li, Peiming Li, Xiaochen Yang, Yang Tang, Zheng Wei*. [[pdf](https://arxiv.org/pdf/2601.14750)], [[code](https://github.com/TencentBAC/RoT)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RoT-blue)
 - **ImgCoT: Compressing Long Chain of Thought into Compact Visual Tokens for Efficient Reasoning of Large Language Model**  
   *Xiaoshu Chen, Sihang Zhou, Ke Liang, Taichun Zhou, Xinwang Liu*. [[pdf](https://arxiv.org/pdf/2601.22730)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ImgCoT-blue)
+- **ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought**  
+  *Fanmeng Wang, Haotian Liu, Guojiang Zhao, Hongteng Xu, Zhifeng Gao*. [[pdf](https://arxiv.org/pdf/2601.23184)], [[code](https://github.com/FanmengWang/ReGuLaR)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ReGuLaR-blue)
 
 ### Internal Mechanisms
 
@@ -357,9 +359,14 @@ If you find our survey useful for your research, please consider citing the foll
   *Yuyi Zhang, Boyu Tang, Tianjie Ju, Sufeng Duan, Gongshen Liu*. [[pdf](https://arxiv.org/pdf/2601.03542)], [[code](https://github.com/laquabe/Layer-Order-Inversion)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners** 
   *Yihong Liu, Raoyuan Zhao, Hinrich Schütze, Michael A. Hedderich*. [[pdf](https://arxiv.org/pdf/2601.02996)], [[code](https://github.com/cisnlp/multilingual-latent-reasoner)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
-
 - **Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models** 
   *Zirui Ren, Ziming Liu*. [[pdf](https://arxiv.org/pdf/2601.10679)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Do Latent-CoT Models Think Step-by-Step? A Mechanistic Study on Sequential Reasoning Tasks** 
+  *Jia Liang, Liangming Pan*. [[pdf](https://arxiv.org/pdf/2602.00449)], [[code](https://github.com/jialiang19/latent-cot-thinking)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Capabilities and Fundamental Limits of Latent Chain-of-Thought** 
+  *Jiaxuan Zou, Yaozhong Xiong, Yong Liu*. [[pdf](https://arxiv.org/pdf/2602.01148)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
+- **Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision** 
+  *Yihao Xue, Allan Zhang, Jianhao Huang, Amit Sahai, Baharan Mirzasoleiman*. [[pdf](https://arxiv.org/pdf/2602.00927)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
 ### Applications and Future Directions
 
@@ -481,6 +488,34 @@ If you find our survey useful for your research, please consider citing the foll
 - **LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning**
 
   *Linquan Wu, Tianxiang Jiang, Yifei Dong, Haoyu Yang, Fengji Zhang, Shichaang Meng, Ai Xuan, Linqi Song, Jacky Keung*. [[pdf](https://arxiv.org/pdf/2601.10129)], [[code](https://github.com/Svardfox/LaViT)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LaViT-blue)
+  
+- **LoopViT: Scaling Visual ARC with Looped Transformers**
+
+  *Wen-Jie Shu, Xuerui Qiu, Rui-Jie Zhu, Harold Haodong Chen, Yexin Liu, Harry Yang*. [[pdf](https://arxiv.org/pdf/2602.02156)], [[code](https://github.com/Svardfox/LaViT)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LoopViT-blue)
+  
+- **Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models**
+
+  *Shuanghao Bai, Jing Lyu, Wanqi Zhou, Zhe Li, Dakai Wang, Lei Xing, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Badong Chen, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2602.01166)], [[code](https://loveju1y.github.io/Latent-Reasoning-VLA/)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LaRA--VLA-blue)
+  
+- **Learning Modal-Mixed Chain-of-Thought Reasoning with Latent Embeddings**
+
+  *Yifei Shao, Kun Zhou, Ziming Xu, Mohammad Atif Quamar, Shibo Hao, Zhen Wang, Zhiting Hu, Biwei Huang*. [[pdf](https://arxiv.org/pdf/2602.00574)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
+  
+- **Show, Don’t Tell: Morphing Latent Reasoning into Image Generation**
+
+  *Harold Haodong Chen, Xinxiang Yin, Wen-Jie Shu, Hongfei Zhang, Zixin Zhang, Chenfei Liao, Litao Guo, Qifeng Chen, Ying-Cong Chen*. [[pdf](https://arxiv.org/pdf/2602.02227)], [[code](https://github.com/EnVision-Research/LatentMorph)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LatentMorph-blue)
+  
+- **Multimodal Latent Reasoning via Hierarchical Visual Cues Injection**
+
+  *Yiming Zhang, Qiangyu Yan, Borui Jiang, Kai Han*. [[pdf](https://arxiv.org/pdf/2602.05359)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/HIVE-blue)
+  
+- **CoLT: Reasoning with Chain of Latent Tool Calls**
+
+  *Fangwei Zhu, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2602.04246)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/CoLT-blue)
+
+- **Vision-aligned Latent Reasoning for Multi-modal Large Language Model**
+
+  *Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2602.04476)], [[code](https://rootyjeon.github.io/valr/)] 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/VaLR-blue)
 
 ## Resources
 
