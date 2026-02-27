@@ -355,17 +355,17 @@ If you find our survey useful for your research, please consider citing the foll
   *Dharunish Yugeswardeenoo, Harshil Nukala, Cole Blondin, Sean O Brien, Vasu Sharma, Kevin Zhu*. [[pdf](http://arxiv.org/pdf/2510.13908)], 2025.10. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Do Latent Tokens Think? A Causal and Adversarial Analysis of Chain-of-Continuous-Thought**  
   *Yuyi Zhang, Boyu Tang, Tianjie Ju, Sufeng Duan, Gongshen Liu*. [[pdf](https://www.arxiv.org/pdf/2512.21711)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Layer-Order Inversion: Rethinking Latent Multi-Hop Reasoning in Large Language Models** 
+- **Layer-Order Inversion: Rethinking Latent Multi-Hop Reasoning in Large Language Models**  
   *Yuyi Zhang, Boyu Tang, Tianjie Ju, Sufeng Duan, Gongshen Liu*. [[pdf](https://arxiv.org/pdf/2601.03542)], [[code](https://github.com/laquabe/Layer-Order-Inversion)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners** 
+- **Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners**  
   *Yihong Liu, Raoyuan Zhao, Hinrich Schütze, Michael A. Hedderich*. [[pdf](https://arxiv.org/pdf/2601.02996)], [[code](https://github.com/cisnlp/multilingual-latent-reasoner)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models** 
+- **Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models**  
   *Zirui Ren, Ziming Liu*. [[pdf](https://arxiv.org/pdf/2601.10679)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Do Latent-CoT Models Think Step-by-Step? A Mechanistic Study on Sequential Reasoning Tasks** 
+- **Do Latent-CoT Models Think Step-by-Step? A Mechanistic Study on Sequential Reasoning Tasks**  
   *Jia Liang, Liangming Pan*. [[pdf](https://arxiv.org/pdf/2602.00449)], [[code](https://github.com/jialiang19/latent-cot-thinking)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Capabilities and Fundamental Limits of Latent Chain-of-Thought** 
+- **Capabilities and Fundamental Limits of Latent Chain-of-Thought**  
   *Jiaxuan Zou, Yaozhong Xiong, Yong Liu*. [[pdf](https://arxiv.org/pdf/2602.01148)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
-- **Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision** 
+- **Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision**  
   *Yihao Xue, Allan Zhang, Jianhao Huang, Amit Sahai, Baharan Mirzasoleiman*. [[pdf](https://arxiv.org/pdf/2602.00927)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Imagination Helps Visual Reasoning, But Not Yet in Latent Space** 
   *You Li, Chi Chen, Yanghao Li, Fanhu Zeng, Kaiyu Huang, Jinan Xu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2602.22766)], [[code](https://github.com/Michael4933/CapImagine)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CapImagine-blue)
