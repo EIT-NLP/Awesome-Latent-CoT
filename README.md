@@ -390,9 +390,6 @@ If you find our survey useful for your research, please consider citing the foll
   *Yihao Xue, Allan Zhang, Jianhao Huang, Amit Sahai, Baharan Mirzasoleiman*. [[pdf](https://arxiv.org/pdf/2602.00927)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Imagination Helps Visual Reasoning, But Not Yet in Latent Space**  
   *You Li, Chi Chen, Yanghao Li, Fanhu Zeng, Kaiyu Huang, Jinan Xu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2602.22766)], [[code](https://github.com/AI9Stars/CapImagine)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CapImagine-blue)
-
-- **Diagnosing Pathological Chain-of-Thought in Reasoning Models**  
-  *Manqing Liu, David Williams-King, Ida Caspary, Linh Le, Hannes Whittingham, Puria Radmard et al.*. [[pdf](https://arxiv.org/pdf/2602.13904)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **How Do Latent Reasoning Methods Perform Under Weak and Strong Supervision?**  
   *Yingqian Cui, Zhenwei Dai, Bing He, Zhan Shi, Hui Liu, Rui Sun et al.*. [[pdf](https://arxiv.org/pdf/2602.22441)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens**  
@@ -555,16 +552,13 @@ If you find our survey useful for your research, please consider citing the foll
 
 - **ATA: Bridging Implicit Reasoning with Attention-Guided and Action-Guided Inference for Vision-Language Action Models**  
   *Cheng Yang, Jianhao Jiao, Lingyi Huang, Jinqi Xiao, Zhexiang Tang, Yu Gong et al.*. [[pdf](https://arxiv.org/pdf/2603.01490)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ATA-blue)
+  
 - **CrystaL: Spontaneous Emergence of Visual Latents in MLLMs**  
   *Yang Zhang, Danyang Li, Yuxuan Li, Xin Zhang, Tianyu Xie, Mingming Cheng et al.*. [[pdf](https://arxiv.org/pdf/2602.20980)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CrystaL-blue)
-- **Conversational Behavior Modeling Foundation Model With Multi-Level Perception**  
-  *Dingkun Zhou, Shuchang Pan, Jiachen Lian, Siddharth Banerjee, Sarika Pasumarthy, Dhruv Hebbar et al.*. [[pdf](https://arxiv.org/pdf/2602.11065)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
-- **RGAlign-Rec: Ranking-Guided Alignment for Latent Query Reasoning in Recommendation Systems**  
-  *Junhua Liu, Yang Jihao, Cheng Chang, Kunrong LI, Bin Fu, Kwan Hui Lim*. [[pdf](https://arxiv.org/pdf/2602.12968)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RGAlign----Rec-blue)
+  
 - **Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection**  
   *Peng Chen, Chao Huang, Yunkang Cao, Chengliang Liu, Wenqiang Wang, Mingbo Yang et al.*. [[pdf](https://arxiv.org/pdf/2602.09850)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Reason----IAD-blue)
-- **APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL**  
-  *Bowen Cao, Weibin Liao, Yushi Sun, Dong Fang, Haitao Li, Wai Lam*. [[pdf](https://arxiv.org/pdf/2602.16720)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/APEX----SQL-blue)
+  
 - **LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**  
   *Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang et al.*. [[pdf](https://arxiv.org/pdf/2603.01928)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LaST----VLA-blue)
 
