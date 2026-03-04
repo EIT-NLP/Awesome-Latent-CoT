@@ -127,8 +127,6 @@ If you find our survey useful for your research, please consider citing the foll
   *Bohong Wu, Shen Yan, Sijun Zhang, Jianqiao Lu, Yutao Zeng, Ya Wang, Xun Zhou*. [[pdf](https://arxiv.org/pdf/2504.14992)], 2025.04.  ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PHD--Transformer-blue)
 - **Fast Thinking for Large Language Models**  
   *Haoyu Zheng, Zhuonan Wang, Yuqian Yuan, Tianwei Lin, Wenqiao Zhang, Zheqi Lv, Juncheng Li, Siliang Tang, Yueting Zhuang, Hongyang He*. [[pdf](https://arxiv.org/pdf/2509.23633)], 2025.09.  ![](https://img.shields.io/badge/Arxiv-orange)
-* **Latent Reasoning with Supervised Thinking States**  
-_Ido Amos, Avi Caciularu, Mor Geva, Amir Globerson, Jonathan Herzig, Lior Shani et al._. [pdf](https://arxiv.org/pdf/2602.08332v1), 2026.02.
 
 #### Continuous Tokens 
 
@@ -238,10 +236,6 @@ _Ido Amos, Avi Caciularu, Mor Geva, Amir Globerson, Jonathan Herzig, Lior Shani 
   *Xiaoshu Chen, Sihang Zhou, Ke Liang, Taichun Zhou, Xinwang Liu*. [[pdf](https://arxiv.org/pdf/2601.22730)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ImgCoT-blue)
 - **ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought**  
   *Fanmeng Wang, Haotian Liu, Guojiang Zhao, Hongteng Xu, Zhifeng Gao*. [[pdf](https://arxiv.org/pdf/2601.23184)], [[code](https://github.com/FanmengWang/ReGuLaR)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ReGuLaR-blue)
-* **GTS: Inference-Time Scaling of Latent Reasoning with a Learnable Gaussian Thought Sampler**  
-_Minghan Wang, Ye Bai, Thuy-Trang Vu, Ehsan Shareghi, Gholamreza Haffari_. [pdf](https://arxiv.org/pdf/2602.14077v1), 2026.02.
-* **ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces**  
-_Xin Xu, Tong Yu, Xiang Chen, Haoliang Wang, Julian McAuley, Saayan Mitra_. [pdf](https://arxiv.org/pdf/2602.11683v1), 2026.02.
 
 ### Internal Mechanisms
 
@@ -293,10 +287,6 @@ _Xin Xu, Tong Yu, Xiang Chen, Haoliang Wang, Julian McAuley, Saayan Mitra_. [pdf
   *Alex L. Zhang, Tim Kraska, Omar Khattab*. [[pdf](https://arxiv.org/pdf/2512.24601v1)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RLMs-blue) 
 - **Depth-Recurrent Attention Mixtures: Giving Latent Reasoning the Attention it Deserves**  
   *Jonas Knupp, Jan Hendrik Metzen, Jeremias Bohn, Georg Groh, Kristian Kersting*. [[pdf](https://arxiv.org/pdf/2601.21582)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dreamer-blue) 
-* **SpiralFormer: Looped Transformers Can Learn Hierarchical Dependencies via Multi-Resolution Recursion**  
-_Chengting Yu, Xiaobo Shu, Yadao Wang, Yizhen Zhang, Haoyi Wu, You Wu et al._. [pdf](https://arxiv.org/pdf/2602.11698v1), 2026.02.
-* **LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation**  
-_Ahmadreza Jeddi, Marco Ciccone, Babak Taati_. [pdf](https://arxiv.org/pdf/2602.11451v1), 2026.02.
 
 #### Representational CoT
 
@@ -379,10 +369,6 @@ _Ahmadreza Jeddi, Marco Ciccone, Babak Taati_. [pdf](https://arxiv.org/pdf/2602.
   *Yihao Xue, Allan Zhang, Jianhao Huang, Amit Sahai, Baharan Mirzasoleiman*. [[pdf](https://arxiv.org/pdf/2602.00927)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Imagination Helps Visual Reasoning, But Not Yet in Latent Space**  
   *You Li, Chi Chen, Yanghao Li, Fanhu Zeng, Kaiyu Huang, Jinan Xu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2602.22766)], [[code](https://github.com/AI9Stars/CapImagine)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CapImagine-blue)
-* **Emergent Search and Backtracking in Latent Reasoning Models**  
-_Jasmine Cui, Charles Ye_. [pdf](https://arxiv.org/pdf/2602.08100v1), 2026.02.
-* **Step-resolved data attribution for looped transformers**  
-_Georgios Kaissis, David Mildenberger, Juan Felipe Gomez, Martin J. Menten, Eleni Triantafillou_. [pdf](https://arxiv.org/pdf/2602.10097v1), 2026.02.
 
 ### Applications and Future Directions
 
@@ -532,36 +518,6 @@ _Georgios Kaissis, David Mildenberger, Juan Felipe Gomez, Martin J. Menten, Elen
 - **Vision-aligned Latent Reasoning for Multi-modal Large Language Model**
 
   *Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2602.04476)], [[code](https://rootyjeon.github.io/valr/)] 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/VaLR-blue)
-* **Diagnosing Pathological Chain-of-Thought in Reasoning Models**  
-_Manqing Liu, David Williams-King, Ida Caspary, Linh Le, Hannes Whittingham, Puria Radmard et al._. [pdf](https://arxiv.org/pdf/2602.13904v1), 2026.02.
-* **Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens**  
-_Weihao Liu, Dehai Min, Lu Cheng_. [pdf](https://arxiv.org/pdf/2602.10229v1), 2026.02.
-* **ATA: Bridging Implicit Reasoning with Attention-Guided and Action-Guided Inference for Vision-Language Action Models**  
-_Cheng Yang, Jianhao Jiao, Lingyi Huang, Jinqi Xiao, Zhexiang Tang, Yu Gong et al._. [pdf](https://arxiv.org/pdf/2603.01490v1), 2026.03.
-* **CrystaL: Spontaneous Emergence of Visual Latents in MLLMs**  
-_Yang Zhang, Danyang Li, Yuxuan Li, Xin Zhang, Tianyu Xie, Mingming Cheng et al._. [pdf](https://arxiv.org/pdf/2602.20980v1), 2026.02.
-* **Conversational Behavior Modeling Foundation Model With Multi-Level Perception**  
-_Dingkun Zhou, Shuchang Pan, Jiachen Lian, Siddharth Banerjee, Sarika Pasumarthy, Dhruv Hebbar et al._. [pdf](https://arxiv.org/pdf/2602.11065v1), 2026.02.
-* **Prioritize the Process, Not Just the Outcome: Rewarding Latent Thought Trajectories Improves Reasoning in Looped Language Models**  
-_Jonathan Williams, Esin Tureci_. [pdf](https://arxiv.org/pdf/2602.10520v2), 2026.02.
-* **RGAlign-Rec: Ranking-Guided Alignment for Latent Query Reasoning in Recommendation Systems**  
-_Junhua Liu, Yang Jihao, Cheng Chang, Kunrong LI, Bin Fu, Kwan Hui Lim_. [pdf](https://arxiv.org/pdf/2602.12968v1), 2026.02.
-* **OneLatent: Single-Token Compression for Visual Latent Reasoning**  
-_Bo Lv, Yasheng Sun, Junjie Wang, Haoxiang Shi_. [pdf](https://arxiv.org/pdf/2602.13738v1), 2026.02.
-* **How Do Latent Reasoning Methods Perform Under Weak and Strong Supervision?**  
-_Yingqian Cui, Zhenwei Dai, Bing He, Zhan Shi, Hui Liu, Rui Sun et al._. [pdf](https://arxiv.org/pdf/2602.22441v1), 2026.02.
-* **Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection**  
-_Peng Chen, Chao Huang, Yunkang Cao, Chengliang Liu, Wenqiang Wang, Mingbo Yang et al._. [pdf](https://arxiv.org/pdf/2602.09850v1), 2026.02.
-* **APEX-SQL: Talking to the data via Agentic Exploration for Text-to-SQL**  
-_Bowen Cao, Weibin Liao, Yushi Sun, Dong Fang, Haitao Li, Wai Lam_. [pdf](https://arxiv.org/pdf/2602.16720v1), 2026.02.
-* **Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens**  
-_Wei-Lin Chen, Liqian Peng, Tian Tan, Chao Zhao, Blake JianHang Chen, Ziqian Lin et al._. [pdf](https://arxiv.org/pdf/2602.13517v1), 2026.02.
-* **LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**  
-_Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang et al._. [pdf](https://arxiv.org/pdf/2603.01928v1), 2026.03.
-* **Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure**  
-_Zirui Li, Xuefeng Bai, Kehai Chen, Yizhi Li, Jian Yang, Chenghua Lin et al._. [pdf](https://arxiv.org/pdf/2602.08783v1), 2026.02.
-* **Pretraining with Token-Level Adaptive Latent Chain-of-Thought**  
-_Boyi Zeng, Yiqin Hao, He Li, Shixiang Song, Feichen Song, Zitong Wang et al._. [pdf](https://arxiv.org/pdf/2602.08220v1), 2026.02.
 
 ## Resources
 
