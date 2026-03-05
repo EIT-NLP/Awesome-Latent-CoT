@@ -309,6 +309,11 @@ If you find our survey useful for your research, please consider citing the foll
 - **LoopFormer: Elastic-Depth Looped Transformers for Latent Reasoning via Shortcut Modulation**  
   *Ahmadreza Jeddi, Marco Ciccone, Babak Taati*. [[pdf](https://arxiv.org/pdf/2602.11451)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LoopFormer-blue)
 
+- **PonderLM-3: Adaptive Token-Wise Pondering with Differentiable Masking**  
+  *He Li, Feichen Song, Boyi Zeng, Shixiang Song, Zhiqin John Xu, Ziwei He et al.*. [[pdf](https://arxiv.org/pdf/2603.02023)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PonderLM--3-blue)
+- **AdaPonderLM: Gated Pondering Language Models with Token-Wise Adaptive Depth**  
+  *Shixiang Song, He Li, Zitong Wang, Boyi Zeng, Feichen Song, Yixuan Wang et al.*. [[pdf](https://arxiv.org/pdf/2603.01914)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaPonderLM-blue)
+
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
