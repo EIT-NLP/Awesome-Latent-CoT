@@ -401,6 +401,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Step-resolved data attribution for looped transformers**  
   *Georgios Kaissis, David Mildenberger, Juan Felipe Gomez, Martin J. Menten, Eleni Triantafillou*. [[pdf](https://arxiv.org/pdf/2602.10097)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
+- **When Shallow Wins: Silent Failures and the Depth-Accuracy Paradox in Latent Reasoning**  
+  *Subramanyam Sahoo, Aman Chadha, Vinija Jain, Divya Chaudhary*. [[pdf](https://arxiv.org/pdf/2603.03475)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange)
+
 ### Applications and Future Directions
 
 - **Efficient Reasoning with Hidden Thinking**  
