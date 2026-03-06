@@ -382,7 +382,7 @@ If you find our survey useful for your research, please consider citing the foll
 - **Do Latent Tokens Think? A Causal and Adversarial Analysis of Chain-of-Continuous-Thought**  
   *Yuyi Zhang, Boyu Tang, Tianjie Ju, Sufeng Duan, Gongshen Liu*. [[pdf](https://www.arxiv.org/pdf/2512.21711)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Layer-Order Inversion: Rethinking Latent Multi-Hop Reasoning in Large Language Models**  
-  *Yuyi Zhang, Boyu Tang, Tianjie Ju, Sufeng Duan, Gongshen Liu*. [[pdf](https://arxiv.org/pdf/2601.03542)], [[code](https://github.com/laquabe/Layer-Order-Inversion)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
+  *Xukai Liu, Ye Liu, Jipeng Zhang, Yanghai Zhang, Kai Zhang, Qi Liu*. [[pdf](https://arxiv.org/pdf/2601.03542)], [[code](https://github.com/laquabe/Layer-Order-Inversion)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners**  
   *Yihong Liu, Raoyuan Zhao, Hinrich Schütze, Michael A. Hedderich*. [[pdf](https://arxiv.org/pdf/2601.02996)], [[code](https://github.com/cisnlp/multilingual-latent-reasoner)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models**  
