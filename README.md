@@ -131,6 +131,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Latent Reasoning with Supervised Thinking States**  
   *Ido Amos, Avi Caciularu, Mor Geva, Amir Globerson, Jonathan Herzig, Lior Shani et al.*. [[pdf](https://arxiv.org/pdf/2602.08332)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 
+- **SPOT: Span-level Pause-of-Thought for Efficient and Interpretable Latent Reasoning in Large Language Models**  
+  *Yunlong Chu, Minglai Shao, Yuhang Liu, Bing Hao, Yumeng Lin, Jialu Wang et al.*. [[pdf](https://arxiv.org/pdf/2603.06222)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SPOT-blue)
+
 #### Continuous Tokens 
 
 - **Training Large Language Models to Reason in a Continuous Latent Space**  
