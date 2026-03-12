@@ -317,6 +317,11 @@ If you find our survey useful for your research, please consider citing the foll
 - **AdaPonderLM: Gated Pondering Language Models with Token-Wise Adaptive Depth**  
   *Shixiang Song, He Li, Zitong Wang, Boyi Zeng, Feichen Song, Yixuan Wang et al.*. [[pdf](https://arxiv.org/pdf/2603.01914)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/AdaPonderLM-blue)
 
+- **SCORE: Replacing Layer Stacking with Contractive Recurrent Depth**  
+  *Guillaume Godin*. [[pdf](https://arxiv.org/pdf/2603.10544)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SCORE-blue)
+- **Adaptive Loops and Memory in Transformers: Think Harder or Know More?**  
+  *Markus Frey, Behzad Shomali, Ali Hamza Bashir, David Berghaus, Joachim Koehler, Mehdi Ali*. [[pdf](https://arxiv.org/pdf/2603.08391)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange)
+
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
