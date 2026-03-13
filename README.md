@@ -480,71 +480,67 @@ If you find our survey useful for your research, please consider citing the foll
   *Jizheng Ma, Xiaofei Zhou, Yanlong Song, Han Yan*. [[pdf](https://arxiv.org/pdf/2511.02360)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoCoVa-blue)
   
 - **Enabling Agents to Communicate Entirely in Latent Space**  
-  *Zhuoyun Du, Runze Wang, Huiyu Bai, Zouying Cao, Xiaoyong Zhu, Bo Zheng, Wei Chen, Haochao Ying*. [[pdf](https://arxiv.org/pdf/2511.09149)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Interlat-blue)
+  *Zhuoyun Du, Runze Wang, Huiyu Bai, Zouying Cao, Xiaoyong Zhu, Bo Zheng, Wei Chen, Haochao Ying*. [[pdf](https://arxiv.org/pdf/2511.09149)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Interlat-blue) 
   
 - **Monet: Reasoning in Latent Visual Space Beyond Images and Language**  
-  *Qixun Wang, Yang Shi, Yifei Wang, Yuanxing Zhang, Pengfei Wan, Kun Gai, Xianghua Ying, Yisen Wang*. [[pdf](https://arxiv.org/pdf/2511.21395)], [[code](https://github.com/NOVAglow646/Monet)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Monet-blue)
+  *Qixun Wang, Yang Shi, Yifei Wang, Yuanxing Zhang, Pengfei Wan, Kun Gai, Xianghua Ying, Yisen Wang*. [[pdf](https://arxiv.org/pdf/2511.21395)], [[code](https://github.com/NOVAglow646/Monet)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Monet-blue) 
   
 - **Latent Collaboration in Multi-Agent Systems**  
-  *Jiaru Zou, Xiyuan Yang, Ruizhong Qiu, Gaotang Li, Katherine Tieu, Pan Lu, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang*. [[pdf](https://arxiv.org/pdf/2511.21395)], [[code](https://github.com/Gen-Verse/LatentMAS)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LatentMAS-blue)
+  *Jiaru Zou, Xiyuan Yang, Ruizhong Qiu, Gaotang Li, Katherine Tieu, Pan Lu, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang*. [[pdf](https://arxiv.org/pdf/2511.21395)], [[code](https://github.com/Gen-Verse/LatentMAS)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LatentMAS-blue) 
   
 - **Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens**  
-  *Yiming Qin, Bomin Wei, Jiaxin Ge, Konstantinos Kallidromitis, Stephanie Fu, Trevor Darrell, Xudong Wang*. [[pdf](https://arxiv.org/pdf/2511.19418)], [[code](https://wakalsprojectpage.github.io/comt-website/)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/CoVT-blue)
+  *Yiming Qin, Bomin Wei, Jiaxin Ge, Konstantinos Kallidromitis, Stephanie Fu, Trevor Darrell, Xudong Wang*. [[pdf](https://arxiv.org/pdf/2511.19418)], [[code](https://wakalsprojectpage.github.io/comt-website/)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/CoVT-blue) 
   
 - **VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models**  
-  *Xinlei Yu, Chengming Xu, Guibin Zhang, Zhangquan Chen, Yudong Zhang, Yongbo He, Peng-Tao Jiang, Jiangning Zhang, Xiaobin Hu, Shuicheng Yan*. [[pdf](https://arxiv.org/pdf/2511.11007)], [[code](https://github.com/YU-deep/VisMem)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/VisMem-blue)
+  *Xinlei Yu, Chengming Xu, Guibin Zhang, Zhangquan Chen, Yudong Zhang, Yongbo He, Peng-Tao Jiang, Jiangning Zhang, Xiaobin Hu, Shuicheng Yan*. [[pdf](https://arxiv.org/pdf/2511.11007)], [[code](https://github.com/YU-deep/VisMem)], 2025.11. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/VisMem-blue) 
   
 - **Latent Chain-of-Thought World Modeling for End-to-End Driving**  
-  *Shuhan Tan, Kashyap Chitta, Yuxiao Chen, Ran Tian, Yurong You, Yan Wang, Wenjie Luo, Yulong Cao, Philipp Krahenbuhl, Marco Pavone, Boris Ivanovic*. [[pdf](https://arxiv.org/pdf/2512.10226)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LCDrive-blue)
+  *Shuhan Tan, Kashyap Chitta, Yuxiao Chen, Ran Tian, Yurong You, Yan Wang, Wenjie Luo, Yulong Cao, Philipp Krahenbuhl, Marco Pavone, Boris Ivanovic*. [[pdf](https://arxiv.org/pdf/2512.10226)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LCDrive-blue) 
   
 - **Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space**  
-  *Chengzhi Liu, Yuzhe Yang, Yue Fan, Qingyue Wei, Sheng Liu, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2512.12623)], [[code](https://mllm-dmlr.github.io/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/DMLR-blue)
+  *Chengzhi Liu, Yuzhe Yang, Yue Fan, Qingyue Wei, Sheng Liu, Xin Eric Wang*. [[pdf](https://arxiv.org/pdf/2512.12623)], [[code](https://mllm-dmlr.github.io/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/DMLR-blue)
   
 - **Interleaved Latent Visual Reasoning with Selective Perceptual Modeling**  
-  *Shuai Dong, Siyuan Wang, Xingyu Liu, Zhongyu Wei*. [[pdf](https://arxiv.org/pdf/2512.05665)], [[code](https://github.com/XD111ds/ILVR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/ICVR-blue)
+  *Shuai Dong, Siyuan Wang, Xingyu Liu, Zhongyu Wei*. [[pdf](https://arxiv.org/pdf/2512.05665)], [[code](https://github.com/XD111ds/ILVR)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ICVR-blue)
   
 - **Mull-Tokens: Modality-Agnostic Latent Thinking**  
-  *Arijit Ray, Ahmed Abdelkader, Chengzhi Mao, Bryan A. Plummer, Kate Saenko, Ranjay Krishna, Leonidas Guibas, Wen-Sheng Chu*. [[pdf](https://arxiv.org/pdf/2512.10941)], [[code](http://arijitray.com/multimodal_thinking/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Mull_Tokens-blue)
+  *Arijit Ray, Ahmed Abdelkader, Chengzhi Mao, Bryan A. Plummer, Kate Saenko, Ranjay Krishna, Leonidas Guibas, Wen-Sheng Chu*. [[pdf](https://arxiv.org/pdf/2512.10941)], [[code](http://arijitray.com/multimodal_thinking/)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Mull_Tokens-blue) 
   
 - **VL-JEPA: Joint Embedding Predictive Architecture for Vision-language**  
-  *Delong Chen, Mustafa Shukor, Theo Moutakanni, Willy Chung, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung*. [[pdf](https://arxiv.org/pdf/2512.10942)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/VL--JEPA-blue)
+  *Delong Chen, Mustafa Shukor, Theo Moutakanni, Willy Chung, Jade Yu, Tejaswi Kasarla, Allen Bolourchi, Yann LeCun, Pascale Fung*. [[pdf](https://arxiv.org/pdf/2512.10942)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VL--JEPA-blue)
   
 - **Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs**  
-  *Jintao Tong, Jiaqi Gu, Yujing Lou, Lubin Fan, Yixiong Zou, Yue Wu, Jieping Ye, Ruixuan Li*. [[pdf](https://arxiv.org/pdf/2512.16584)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/SkiLa-blue)
+  *Jintao Tong, Jiaqi Gu, Yujing Lou, Lubin Fan, Yixiong Zou, Yue Wu, Jieping Ye, Ruixuan Li*. [[pdf](https://arxiv.org/pdf/2512.16584)], 2025.12. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/SkiLa-blue)
   
 - **Thinking Broad, Acting Fast: Latent Reasoning Distillation from Multi-Perspective Chain-of-Thought for E-Commerce Relevance** 
-  *Baopu Qiu, Hao Chen, Yuanrong Wu, Changtong Zan, Chao Wei, Weiru Zhang, Xiaoyi Zeng*. [[pdf](https://arxiv.org/pdf/2601.21611)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LRKD-blue)
+  *Baopu Qiu, Hao Chen, Yuanrong Wu, Changtong Zan, Chao Wei, Weiru Zhang, Xiaoyi Zeng*. [[pdf](https://arxiv.org/pdf/2601.21611)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LRKD-blue)
   
 - **Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**
-  *Chi-Pin Huang, Yunze Man, Zhiding Yu, Min-Hung Chen, Jan Kautz, Yu-Chiang Frank Wang, Fu-En Yang*. [[pdf](https://arxiv.org/pdf/2601.09708)], [[code](https://jasper0314-huang.github.io/fast-thinkact/)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/Fast--ThinkAct-blue)
+  *Chi-Pin Huang, Yunze Man, Zhiding Yu, Min-Hung Chen, Jan Kautz, Yu-Chiang Frank Wang, Fu-En Yang*. [[pdf](https://arxiv.org/pdf/2601.09708)], [[code](https://jasper0314-huang.github.io/fast-thinkact/)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Fast--ThinkAct-blue)
   
 - **Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning**
-  *Yubo Wang, Juntian Zhang, Yichen Wu, Yankai Lin, Nils Lukas, Yuhan Liu*. [[pdf](https://arxiv.org/pdf/2601.06803)], [[code](https://github.com/ybb6/laser/tree/main)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/DWAL-blue)
+  *Yubo Wang, Juntian Zhang, Yichen Wu, Yankai Lin, Nils Lukas, Yuhan Liu*. [[pdf](https://arxiv.org/pdf/2601.06803)], [[code](https://github.com/ybb6/laser/tree/main)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/DWAL-blue)  
   
 - **LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**
-  *Zhuoyang Liu, Jiaming Liu, Hao Chen, Ziyu Guo, Chengkai Hou, Chenyang Gu, Jiale Yu, Xiangju Mi, Renrui Zhang, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2601.05248)], [[code](https://sites.google.com/view/last0)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LaST0-blue)
+  *Zhuoyang Liu, Jiaming Liu, Hao Chen, Ziyu Guo, Chengkai Hou, Chenyang Gu, Jiale Yu, Xiangju Mi, Renrui Zhang, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2601.05248)], [[code](https://sites.google.com/view/last0)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LaST0-blue) 
   
 - **Reasoning While Recommending: Entropy-Guided Latent Reasoning in Generative Re-ranking Models**
-  *Changshuo Zhang*. [[pdf](https://arxiv.org/pdf/2601.13533)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/EGLR-blue)
+  *Changshuo Zhang*. [[pdf](https://arxiv.org/pdf/2601.13533)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/EGLR-blue) 
   
 - **Parallel Latent Reasoning for Sequential Recommendation**
-  *Jiakai Tang, Xu Chen, Wen Chen, Jian Wu, Yuning Jiang, Bo Zheng*. [[pdf](https://arxiv.org/pdf/2601.03153)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/PLR-blue)
+  *Jiakai Tang, Xu Chen, Wen Chen, Jian Wu, Yuning Jiang, Bo Zheng*. [[pdf](https://arxiv.org/pdf/2601.03153)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/PLR-blue)
   
-- **ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought**
-  
-  *Fanmeng Wang, Haotian Liu, Guojiang Zhao, Hongteng Xu, Zhifeng Gao*. [[pdf](https://arxiv.org/pdf/2601.23184)], [[code](https://github.com/FanmengWang/ReGuLaR)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/ReGuLaR-blue)
-
 - **LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning**
 
-  *Linquan Wu, Tianxiang Jiang, Yifei Dong, Haoyu Yang, Fengji Zhang, Shichaang Meng, Ai Xuan, Linqi Song, Jacky Keung*. [[pdf](https://arxiv.org/pdf/2601.10129)], [[code](https://github.com/Svardfox/LaViT)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LaViT-blue)
+  *Linquan Wu, Tianxiang Jiang, Yifei Dong, Haoyu Yang, Fengji Zhang, Shichaang Meng, Ai Xuan, Linqi Song, Jacky Keung*. [[pdf](https://arxiv.org/pdf/2601.10129)], [[code](https://github.com/Svardfox/LaViT)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LaViT-blue) 
   
 - **LoopViT: Scaling Visual ARC with Looped Transformers**
 
-  *Wen-Jie Shu, Xuerui Qiu, Rui-Jie Zhu, Harold Haodong Chen, Yexin Liu, Harry Yang*. [[pdf](https://arxiv.org/pdf/2602.02156)], [[code](https://github.com/Svardfox/LaViT)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LoopViT-blue)
+  *Wen-Jie Shu, Xuerui Qiu, Rui-Jie Zhu, Harold Haodong Chen, Yexin Liu, Harry Yang*. [[pdf](https://arxiv.org/pdf/2602.02156)], [[code](https://github.com/Svardfox/LaViT)], 2026.01. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LoopViT-blue)
   
 - **Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models**
 
-  *Shuanghao Bai, Jing Lyu, Wanqi Zhou, Zhe Li, Dakai Wang, Lei Xing, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Badong Chen, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2602.01166)], [[code](https://loveju1y.github.io/Latent-Reasoning-VLA/)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LaRA--VLA-blue)
+  *Shuanghao Bai, Jing Lyu, Wanqi Zhou, Zhe Li, Dakai Wang, Lei Xing, Xiaoguang Zhao, Pengwei Wang, Zhongyuan Wang, Cheng Chi, Badong Chen, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2602.01166)], [[code](https://loveju1y.github.io/Latent-Reasoning-VLA/)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LaRA--VLA-blue)
   
 - **Learning Modal-Mixed Chain-of-Thought Reasoning with Latent Embeddings**
 
@@ -552,19 +548,19 @@ If you find our survey useful for your research, please consider citing the foll
   
 - **Show, Don’t Tell: Morphing Latent Reasoning into Image Generation**
 
-  *Harold Haodong Chen, Xinxiang Yin, Wen-Jie Shu, Hongfei Zhang, Zixin Zhang, Chenfei Liao, Litao Guo, Qifeng Chen, Ying-Cong Chen*. [[pdf](https://arxiv.org/pdf/2602.02227)], [[code](https://github.com/EnVision-Research/LatentMorph)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/LatentMorph-blue)
+  *Harold Haodong Chen, Xinxiang Yin, Wen-Jie Shu, Hongfei Zhang, Zixin Zhang, Chenfei Liao, Litao Guo, Qifeng Chen, Ying-Cong Chen*. [[pdf](https://arxiv.org/pdf/2602.02227)], [[code](https://github.com/EnVision-Research/LatentMorph)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LatentMorph-blue)
   
 - **Multimodal Latent Reasoning via Hierarchical Visual Cues Injection**
 
-  *Yiming Zhang, Qiangyu Yan, Borui Jiang, Kai Han*. [[pdf](https://arxiv.org/pdf/2602.05359)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/HIVE-blue)
+  *Yiming Zhang, Qiangyu Yan, Borui Jiang, Kai Han*. [[pdf](https://arxiv.org/pdf/2602.05359)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/HIVE-blue)
   
 - **CoLT: Reasoning with Chain of Latent Tool Calls**
 
-  *Fangwei Zhu, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2602.04246)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/CoLT-blue)
+  *Fangwei Zhu, Zhifang Sui*. [[pdf](https://arxiv.org/pdf/2602.04246)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CoLT-blue)
 
 - **Vision-aligned Latent Reasoning for Multi-modal Large Language Model**
 
-  *Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2602.04476)], [[code](https://rootyjeon.github.io/valr/)] 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)![](https://img.shields.io/badge/VaLR-blue)
+  *Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho, Jinwoo Shin*. [[pdf](https://arxiv.org/pdf/2602.04476)], [[code](https://rootyjeon.github.io/valr/)] 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/VaLR-blue)
 
 - **ATA: Bridging Implicit Reasoning with Attention-Guided and Action-Guided Inference for Vision-Language Action Models**  
   *Cheng Yang, Jianhao Jiao, Lingyi Huang, Jinqi Xiao, Zhexiang Tang, Yu Gong et al.*. [[pdf](https://arxiv.org/pdf/2603.01490)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ATA-blue)
@@ -573,10 +569,10 @@ If you find our survey useful for your research, please consider citing the foll
   *Yang Zhang, Danyang Li, Yuxuan Li, Xin Zhang, Tianyu Xie, Mingming Cheng et al.*. [[pdf](https://arxiv.org/pdf/2602.20980)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CrystaL-blue)
   
 - **Reason-IAD: Knowledge-Guided Dynamic Latent Reasoning for Explainable Industrial Anomaly Detection**  
-  *Peng Chen, Chao Huang, Yunkang Cao, Chengliang Liu, Wenqiang Wang, Mingbo Yang et al.*. [[pdf](https://arxiv.org/pdf/2602.09850)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Reason----IAD-blue)
+  *Peng Chen, Chao Huang, Yunkang Cao, Chengliang Liu, Wenqiang Wang, Mingbo Yang et al.*. [[pdf](https://arxiv.org/pdf/2602.09850)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Reason--IAD-blue)
   
 - **LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**  
-  *Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang et al.*. [[pdf](https://arxiv.org/pdf/2603.01928)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LaST----VLA-blue)
+  *Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang et al.*. [[pdf](https://arxiv.org/pdf/2603.01928)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LaST--VLA-blue)
 
 ## Resources
 
