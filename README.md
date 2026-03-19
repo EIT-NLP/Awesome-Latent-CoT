@@ -254,6 +254,11 @@ If you find our survey useful for your research, please consider citing the foll
 - **ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces**  
   *Xin Xu, Tong Yu, Xiang Chen, Haoliang Wang, Julian McAuley, Saayan Mitra*. [[pdf](https://arxiv.org/pdf/2602.11683)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThinkRouter-blue)
 
+- **The Silent Thought: Modeling Internal Cognition in Full-Duplex Spoken Dialogue Models via Latent Reasoning**  
+  *Donghang Wu, Tianyu Zhang, Yuxin Li, Hexin Liu, Chen Chen, Eng Siong Chng et al.*. [[pdf](https://arxiv.org/pdf/2603.17837)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/FLAIR-blue)
+- **Thinking in Latents: Adaptive Anchor Refinement for Implicit Reasoning in LLMs**  
+  *Disha Sheshanarayana, Rajat Subhra Pal, Manjira Sinha, Tirthankar Dasgupta*. [[pdf](https://arxiv.org/pdf/2603.15051)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange)
+
 ### Internal Mechanisms
 
 #### Structural CoT
