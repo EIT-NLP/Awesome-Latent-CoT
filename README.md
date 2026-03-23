@@ -327,6 +327,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Adaptive Loops and Memory in Transformers: Think Harder or Know More?**  
   *Markus Frey, Behzad Shomali, Ali Hamza Bashir, David Berghaus, Joachim Koehler, Mehdi Ali*. [[pdf](https://arxiv.org/pdf/2603.08391)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange)
 
+- **LoopRPT: Reinforcement Pre-Training for Looped Language Models**  
+  *Guo Tang, Shixin Jiang, Heng Chang, Nuo Chen, Yuhan Li, Huiming Fan et al.*. [[pdf](https://arxiv.org/pdf/2603.19714)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LoopRPT-blue)
+
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
