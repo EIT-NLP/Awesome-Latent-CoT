@@ -582,6 +582,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**  
   *Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang et al.*. [[pdf](https://arxiv.org/pdf/2603.01928)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LaST--VLA-blue)
 
+- **Q-Tacit: Image Quality Assessment via Latent Visual Reasoning**  
+  *Yuxuan Jiang, Yixuan Li, Hanwei Zhu, Siyue Teng, Fan Zhang, David Bull*. [[pdf](https://arxiv.org/pdf/2603.22641)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Q--Tacit-blue)
+
 ## Resources
 
 For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning), and [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models) [[Paper](https://arxiv.org/pdf/2504.10903)].
