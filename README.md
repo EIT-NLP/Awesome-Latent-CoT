@@ -425,6 +425,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **When Shallow Wins: Silent Failures and the Depth-Accuracy Paradox in Latent Reasoning**  
   *Subramanyam Sahoo, Aman Chadha, Vinija Jain, Divya Chaudhary*. [[pdf](https://arxiv.org/pdf/2603.03475)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange)
 
+- **Why Models Know But Don't Say: Chain-of-Thought Faithfulness Divergence Between Thinking Tokens and Answers in Open-Weight Reasoning Models**  
+  *Richard J. Young*. [[pdf](https://arxiv.org/pdf/2603.26410)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange)
+
 ### Applications and Future Directions
 
 - **Efficient Reasoning with Hidden Thinking**  
@@ -584,6 +587,9 @@ If you find our survey useful for your research, please consider citing the foll
 
 - **Q-Tacit: Image Quality Assessment via Latent Visual Reasoning**  
   *Yuxuan Jiang, Yixuan Li, Hanwei Zhu, Siyue Teng, Fan Zhang, David Bull*. [[pdf](https://arxiv.org/pdf/2603.22641)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Q--Tacit-blue)
+
+- **LanteRn: Latent Visual Structured Reasoning**  
+  *André G. Viveiros, Nuno Gonçalves, Matthias Lindemann, André Martins*. [[pdf](https://arxiv.org/pdf/2603.25629)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LanteRn-blue)
 
 ## Resources
 
