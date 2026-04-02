@@ -259,6 +259,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Thinking in Latents: Adaptive Anchor Refinement for Implicit Reasoning in LLMs**  
   *Disha Sheshanarayana, Rajat Subhra Pal, Manjira Sinha, Tirthankar Dasgupta*. [[pdf](https://arxiv.org/pdf/2603.15051)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange)
 
+- **Thinking Wrong in Silence: Backdoor Attacks on Continuous Latent Reasoning**  
+  *Swapnil Parekh*. [[pdf](https://arxiv.org/pdf/2604.00770)], 2026.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ThoughtSteer-blue)
+
 ### Internal Mechanisms
 
 #### Structural CoT
@@ -590,6 +593,9 @@ If you find our survey useful for your research, please consider citing the foll
 
 - **LanteRn: Latent Visual Structured Reasoning**  
   *André G. Viveiros, Nuno Gonçalves, Matthias Lindemann, André Martins*. [[pdf](https://arxiv.org/pdf/2603.25629)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LanteRn-blue)
+
+- **LA-Sign: Looped Transformers with Geometry-aware Alignment for Skeleton-based Sign Language Recognition**  
+  *Muxin Pu, Mei Kuan Lim, Chun Yong Chong, Chen Change Loy*. [[pdf](https://arxiv.org/pdf/2603.29057)], 2026.03. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LA--Sign-blue)
 
 ## Resources
 
