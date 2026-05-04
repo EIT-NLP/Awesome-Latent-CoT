@@ -413,7 +413,7 @@ If you find our survey useful for your research, please consider citing the foll
 - **Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision**  
   *Yihao Xue, Allan Zhang, Jianhao Huang, Amit Sahai, Baharan Mirzasoleiman*. [[pdf](https://arxiv.org/pdf/2602.00927)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Imagination Helps Visual Reasoning, But Not Yet in Latent Space**  
-  *You Li, Chi Chen, Yanghao Li, Fanhu Zeng, Kaiyu Huang, Jinan Xu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2602.22766)], [[code](https://github.com/AI9Stars/CapImagine)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/CapImagine-blue)
+  *You Li, Chi Chen, Yanghao Li, Fanhu Zeng, Kaiyu Huang, Jinan Xu, Maosong Sun*. [[pdf](https://arxiv.org/pdf/2602.22766)], [[code](https://github.com/AI9Stars/CapImagine)], 2026.02. ![](https://img.shields.io/badge/ICML2026-orange) ![](https://img.shields.io/badge/CapImagine-blue)
 - **How Do Latent Reasoning Methods Perform Under Weak and Strong Supervision?**  
   *Yingqian Cui, Zhenwei Dai, Bing He, Zhan Shi, Hui Liu, Rui Sun et al.*. [[pdf](https://arxiv.org/pdf/2602.22441)], 2026.02. ![](https://img.shields.io/badge/Arxiv-orange)
 - **Think Deep, Not Just Long: Measuring LLM Reasoning Effort via Deep-Thinking Tokens**  
