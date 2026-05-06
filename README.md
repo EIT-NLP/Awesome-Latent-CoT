@@ -605,6 +605,8 @@ For most recent **Efficient Reasoning** research, see [Awesome-Efficient-Reasoni
 
 [awesome-llm-implicit-reasoning](https://github.com/digailab/awesome-llm-implicit-reasoning): a list of papers contains implicit reasoning in LLMs.
 
+[awesome-latent-refinement](https://github.com/matinaghaei/awesome-latent-refinement): research on iterative latent reasoning, recurrent refinement, and inference-time computation.
+
 
 ## Acknowledgements
 
