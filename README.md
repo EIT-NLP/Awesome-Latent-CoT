@@ -286,6 +286,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **LEPO: Latent Reasoning Policy Optimization for Large Language Models**  
   *Yuyan Zhou, Jiarui Yu, Hande Dong, Zhezheng Hao, Hong Wang, Jianqing Zhang et al.*. [[pdf](https://arxiv.org/pdf/2604.17892)], 2026.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/LEPO-blue)
 
+- **One Refiner to Unlock Them All: Inference-Time Reasoning Elicitation via Reinforcement Query Refinement**  
+  *Yixiao Zhou, Dongzhou Cheng, zhiliang wu, Yi Yang, Yu Cheng, Hehe Fan*. [[pdf](https://arxiv.org/pdf/2604.25444)], 2026.04. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/RQR-blue)
+
 ### Internal Mechanisms
 
 #### Structural CoT
@@ -473,6 +476,9 @@ If you find our survey useful for your research, please consider citing the foll
 
 - **Spatiotemporal Hidden-State Dynamics as a Signature of Internal Reasoning in Large Language Models**  
   *Kotaro Furuya, Takahito Tanimura*. [[pdf](https://arxiv.org/pdf/2605.01853)], 2026.05. ![](https://img.shields.io/badge/Arxiv-orange)
+
+- **The Scaling Properties of Implicit Deductive Reasoning in Transformers**  
+  *Enrico Vompa, Tanel Tammet*. [[pdf](https://arxiv.org/pdf/2605.04330)], 2026.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/ImplicitDR-blue)
 
 ### Applications and Future Directions
 
