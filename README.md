@@ -442,6 +442,9 @@ If you find our survey useful for your research, please consider citing the foll
 - **Looped SSMs: Depth-Recurrence and Input Reshaping for Time Series Classification**  
   *Mónika Farsang, Ramin Hasani, Daniela Rus, Radu Grosu*. [[pdf](https://arxiv.org/pdf/2605.16048)], 2026.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Looped_SSMs-blue)
 
+- **A Dual-Path Architecture for Scaling Compute and Capacity in LLMs**  
+  *Markus Frey, Behzad Shomali, Joachim Koehler, Mehdi Ali*. [[pdf](https://arxiv.org/pdf/2605.30202)], 2026.05. ![](https://img.shields.io/badge/Arxiv-orange) ![](https://img.shields.io/badge/Dual--Path-blue)
+
 #### Representational CoT
 
 - **Implicit Chain of Thought Reasoning via Knowledge Distillation**  
