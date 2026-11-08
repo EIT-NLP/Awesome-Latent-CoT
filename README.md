@@ -142,6 +142,8 @@ If you find our survey useful for your research, please consider citing the foll
 
 #### Continuous Tokens 
 
+- **MATHESIS: Continuous Geometric Manifold Computing Language & Hardware ISA**  
+  *Ariel García Traba*. [[code](https://github.com/AGT1973/mathesis-language)], 2026.11. ![](https://img.shields.io/badge/Open_Source-green) ![](https://img.shields.io/badge/MATHESIS-blue) ![](https://img.shields.io/badge/Stiefel_Manifold-lightgray)
 - **Training Large Language Models to Reason in a Continuous Latent Space**  
   *Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian*. [[pdf](https://arxiv.org/pdf/2412.06769)], [[code](https://github.com/facebookresearch/coconut)], 2024.12. ![](https://img.shields.io/badge/COLM2025-orange) ![](https://img.shields.io/badge/Coconut-blue)
 - **Compressed Chain of Thought: Efficient Reasoning Through Dense Representations**  
